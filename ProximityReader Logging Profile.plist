@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The ProximityReader Diagnostics profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of merchant information, including information about ProximityReader usage while you have this profile installed, such as the merchant name, transaction data, transaction status or error information, and a unique hardware identifier for your device. The profile will expire after 3 days.
+
+		You will be able to review the log files on your computer prior to sending them to Apple. To turn off logging, open Settings, tap General, tap "Device Management", tap "ProximityReader Logging Profile", and tap "Delete Profile".
+
+		By enabling ProximityReader Diagnostics and submitting the generated files to Apple, you agree and consent to Apple's and its subsidiaries' and agents' transmission, collection, maintenance, processing and use of this information as described above.
+
+		At all times, information received by Apple will be treated in accordance with Apple's Privacy Policy, which can be found at www.apple.com/privacy.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>259200.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ProximityReader.logging.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>FADEFCB2-EFB2-42C6-910F-84548970C637</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.ProximityReader</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Persist</key>
+						<string>Debug</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.SoftPosReader.logging.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>9ED22D69-18B6-4188-95C0-34F22AFE0E82</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.softposreader</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.nfc.logging.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>849A2F7A-53AB-4202-A9C3-1BFA6915A230</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.nfc</key>
+				<dict>
+					<key>LogAPDU</key>
+					<true/>
+					<key>LogNCI</key>
+					<true/>
+					<key>LogRF</key>
+					<integer>4</integer>
+					<key>LogTSM</key>
+					<true/>
+					<key>LogTransactionDetails</key>
+					<true/>
+					<key>Logging</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable</key>
+						<string>Debug</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Persist</key>
+						<string>Debug</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables logging for ProximityReader</string>
+	<key>PayloadDisplayName</key>
+	<string>ProximityReader Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ProximityReader.logging</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>265DE6F7-1F72-4C19-8003-9F0973770E28</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-01-05T08:00:00Z</date>
+</dict>
+</plist>

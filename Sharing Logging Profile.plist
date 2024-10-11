@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>en</key>
+		<string>The Sharing Logging Profile generates files that allow Apple to troubleshoot issues with your Continuity, Sharing, and AirDrop features and help Apple to improve its products and services. The generated files may include data, including personal data associated with your device, Contact Information, Contacts with whom you've shared content via the Share Sheet, shared content share from Share Sheet, Handoff, or Universal Clipboard, diagnostic data, and identifiers of nearby Bluetooth and WiFi devices. The generated files may also include data on how you interact with your AirPods and other nearby devices, such as when you paired your AirPods, connected to a nearby device using Personal Hotspot, as well as data associated with your iCloud account, such as the name and contact information associated with your Apple ID and device info of other devices associated with that AppleID. 
+
+If you install this profile, it will automatically turn the logging on and this data will be captured when you take a Sysdiagnose on this device. The data will not leave the device unless you initiate a Sysdiagnose and send the results. The profile will expire after 5 days.
+
+You will be able to turn on and off logging at any time while the profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "Sharing Logging" and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright Â© 2023, Apple Inc. All rights reserved.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>432000.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Sharing Debug Logging</string>
+			<key>PayloadDisplayName</key>
+			<string>Sharing Logging Profile</string>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>f9cc48da-b561-43a1-84f5-c2df66dc683c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.sharing</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Sharing Debug Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>Sharing Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>LoggingProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3B9C6222-B8B4-4EF0-BD3F-6724CF5ECB70</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-08-17T07:00:00Z</date>
+</dict>
+</plist>

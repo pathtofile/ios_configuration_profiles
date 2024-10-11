@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Tailspin Tracing Defaults Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including the list of running applications and their internal states which may reveal how you are using them. If you install this profile, it will automatically turn the logging on, and this data will be captured when you take a Sysdiagnose on this device. The data will not leave the device unless you initiate a Sysdiagnose and send the results. The profile will expire after 7 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap Profiles, tap Tailspin Tracing Defaults, and tap Delete Profile.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>Enabled</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.tailspin</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>20CD42A1-0B49-4EFC-87F8-E4A8A2E6C7AE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enabled tailspin logging</string>
+	<key>PayloadDisplayName</key>
+	<string>tailspin tracing defaults</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.tailspin</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1EC74C3B-7A7A-4F21-9E61-D581550528FD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-03-27T07:00:00Z</date>
+</dict>
+</plist>

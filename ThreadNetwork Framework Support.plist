@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Installing this profile will enable ThreadNetwork Framework development features on your device to allow testing and to help Apple troubleshoot problems. Unauthorized apps installed on your device will be able to access ThreadNetwork Framework APIs while this profile installed. This profile will expire after 30 days.
+		
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>2592000.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>EnableThreadNetwork</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.homed</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.ThreadNetwork</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>4BA62451-4F55-4761-BD9A-C547C1F6FF11</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables ThreadNetwork Framework API support in iOS developer beta.</string>
+	<key>PayloadDisplayName</key>
+	<string>ThreadNetwork Framework Support</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ThreadNetwork.EnableThreadNetworkProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D06C735-B6EE-4C57-96EC-E5CBEB9EBA60</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-01-05T08:00:00Z</date>
+</dict>
+</plist>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Mail Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including the contents of the emails you send, email addresses to which you recently sent an email, your email username, the name of your mailbox, the timestamps of any messages you receive, and any email address you designate as a VIP. The profile will expire after 14 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "Mail Logging Profile," and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Enables Mail logging for all activities</string>
+			<key>PayloadDisplayName</key>
+			<string>Mail Logging Profile</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobilemail.logging.1</string>
+			<key>PayloadOrganization</key>
+			<string>Apple Inc.</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>CF7553BD-A9DF-4633-A135-291D3F905EF3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.email</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>debug</string>
+							<key>Persist</key>
+							<string>info</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.email.signposts</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>debug</string>
+							<key>Persist</key>
+							<string>info</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.messageui</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>debug</string>
+							<key>Persist</key>
+							<string>info</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mobilemail</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>debug</string>
+							<key>Persist</key>
+							<string>info</string>
+						</dict>
+					</dict>
+					<key>MessageListViewController</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>debug</string>
+							<key>Persist</key>
+							<string>info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+					</dict>
+					<key>Network</key>
+					<dict>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Persist</key>
+						<string>debug</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Mail logging for all activities</string>
+	<key>PayloadDisplayName</key>
+	<string>Mail Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mobilemail.logging</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>system</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>502B88E7-AAA3-4330-88E1-7E9D417738CA</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-07-24T07:00:00Z</date>
+</dict>
+</plist>

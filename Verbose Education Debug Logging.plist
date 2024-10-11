@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Education Debug Profile generates log files that allow Apple to troubleshoot connection and software issues with your devices when using the Classroom.app and education features, such as information related to users of the devices, including their name and managed Apple ID addresses; classes a teacher is an instructor for; classes a student is enrolled in; the network communication between student and teacher devices; and identifying information about the devices, such as the serial number. If you are installing this profile on a shared or managed device, you must have appropriate authority as an administrator of the device.
+
+Log files do not leave your device unless you decide to share them with Apple by sending a syslog or sysdiagnose from the device. If you decide to share log files, you will be able to review them on any Mac (with macOS Sierra or later) prior to sending them to Apple. 
+
+The Education Debug Profile will expire after 1 week.  Logging can be turned off at any time while the Profile is installed by opening Settings, tapping “General,” then “Profiles &amp; Device Management,” then “Verbose Education Debug Logging,” and tapping “Delete Profile.” Organization administrators can also remove this profile from a managed device via Apple Configurator or the MDM solution used to manage the device.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy) and you are representing that you have authority to install this profile on the designated device. This profile will expire after 7 days.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>CRKLogLevel</key>
+						<integer>7</integer>
+						<key>LKLogLevel</key>
+						<integer>7</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Enables verbose logging for education features</string>
+			<key>PayloadDisplayName</key>
+			<string>Legacy Education Debug Logging</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobileconfig.classroom.logging.on</string>
+			<key>PayloadOrganization</key>
+			<string>Apple</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>71BE48C2-ECDD-477E-B9016-15E948xE2Eddd</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Education Debug Logging</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.classroom</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>EDEE697C-EF7A-427D-8B1C-B0A827407D02</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.classroom</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Education Debug Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>Verbose Education Debug Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mobileconfig.classroom.logging.debug.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadScope</key>
+	<string>system</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B886EA6F-9E84-424B-8666-3827CF474B89</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-05-29T07:00:00Z</date>
+</dict>
+</plist>

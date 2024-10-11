@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The App Intents Developer Logging Profile ("Profile") generates files on your iOS device and allows you to collect diagnostic data from App Intents enabled applications. The generated files ("iOS logs") may include information about the applications installed on your device, and any information passed to apps launched using Siri or Siri Shortcuts, which may include personally identifying information such as names, addresses, locations, and phone numbers and emails.
+
+This profile will expire after 7 days. You can stop the Profile from generating iOS logs by going to Settings &gt; General &gt; Profiles &gt; App Intents Logging &gt; Delete Profile. By following our instructions for enabling the Profile and sending copies of the iOS logs and/or accessory logs to Apple, you consent to Apple using such logs to improve and troubleshoot issues with App Intents enabled applications in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<integer>604800</integer>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.AppIntentsDeveloperLoggingProfile</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>63E23AD0-8098-4931-BDEF-3233BA9406D5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.appintents</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables App Intents Developer Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>App Intents Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.AppIntentsDeveloperLoggingProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9E3568B1-A0E2-4025-8CC6-A2A54A17E90A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-08-24T07:00:00Z</date>
+</dict>
+</plist>

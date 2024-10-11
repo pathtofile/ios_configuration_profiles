@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The VPN Diagnostics Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services.  The generated files may contain some of your personal information, including your VPN account name and data associated with the VPN while this profile is installed, such as IP addresses used, URLs accessed, and details about your network settings. This profile will expire after 14 days.
+		
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple.  To turn off logging, open Settings, tap General, tap “Profiles”, tap “VPN Logging” and tap “Delete Profile.”
+		
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Logging Payload For Network Extension.</string>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>518C7E8A-6B16-4D97-A30E-3A2D95CD7133</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.networkextension</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables VPN framework logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>VPN Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.defaults.managed.networkextension.control</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D6C5BD99-2C0E-4D22-A032-899105BE2A4E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-05-09T07:00:00Z</date>
+</dict>
+</plist>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The mDNSResponder Logging Profile enables logging that allows Apple to troubleshoot issues with your device and helps Apple improve its products and services. The logs may contain some of your personal information, including hostnames and IP addresses accessed by your device, Bonjour services present on your local network, and details about your network settings. This profile will expire after 14 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your device prior to sending them to Apple. To turn off logging on your iOS or tvOS device, open “Settings”, tap “General”, tap “Profiles”, tap “mDNSResponder Logging”, and tap “Remove Profile”. To turn off logging on macOS, open “System Preferences”, click “Profiles”, click “mDNSResponder Logging”, and click “-” to remove.
+
+By enabling this diagnostic tool and sending a copy of the logs to Apple, you are consenting to Apple’s use of the content of such logs in accordance with its privacy policy (https://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Logging Payload For mDNSResponder/srp-mdns-proxy.</string>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>ED3E600C-83D8-44D0-BF5B-8A7F889CDBDE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.mDNSResponder</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Sensitive</string>
+					</dict>
+				</dict>
+				<key>com.apple.mdns</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Sensitive</string>
+					</dict>
+				</dict>
+				<key>com.apple.srp-mdns-proxy</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables mDNSResponder/srp-mdns-proxy logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>mDNSResponder Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.defaults.managed.mDNSResponder</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>120E3BB8-AC32-4D39-B93C-26CF75109F9B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-07-25T07:00:00Z</date>
+</dict>
+</plist>

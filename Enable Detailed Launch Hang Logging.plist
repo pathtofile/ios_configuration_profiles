@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Enable Detailed Launch Hang Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including information about the system (such as the OS version and hardware model) and the list of running applications and their internal states which may reveal what the user was doing when the foreground process froze.  If you install this profile, it will automatically turn the logging on, and this data will be captured when you take a Sysdiagnose on this device. The data will not leave the device unless you initiate a Sysdiagnose and send the results. The profile will expire after 7 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "Enable Detailed Launch Hang Logging Profile," and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>HTProfile.HangTracerDuration</key>
+						<integer>20000</integer>
+						<key>HTProfile.HangTracerEnableTailspin</key>
+						<integer>1</integer>
+						<key>HTProfile.HangTracerEnabled</key>
+						<integer>1</integer>
+						<key>HTProfile.HangTracerHangTimeoutDuration</key>
+						<integer>20000</integer>
+						<key>HTProfile.HangTracerIncludeDiskInfo</key>
+						<integer>1</integer>
+						<key>HTProfile.HangTracerKeepTailspinsWithFormat</key>
+						<string>compressed</string>
+						<key>HTProfile.HangTracerPercentFullSpinReports</key>
+						<integer>100</integer>
+						<key>HTProfile.HangTracerSavedTailspinsMaxMB</key>
+						<integer>20</integer>
+						<key>HTProfile.HangTracerShouldUploadToDiagPipe</key>
+						<integer>0</integer>
+						<key>HTProfile.HangTracerSlowActLaunchTailspinThreshold</key>
+						<integer>5000</integer>
+						<key>HTProfile.HangTracerSlowActTailspinsEnabled</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>Enabled</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.tailspin</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>E49DB826-E67D-442C-A276-1663198326FB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Detailed Launch Hang Logging via HangTracer</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Detailed Launch Hang Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.HangTracer.SaveLaunchTailspins.5secondDuration</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4DD61152-EA64-4439-8220-0DD216DFBAC7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-05-03T07:00:00Z</date>
+</dict>
+</plist>

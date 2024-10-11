@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Apple Configurator iOS Logging profile generates files that allow Apple to troubleshoot issues with assigning devices to Apple School Manager, Apple Business Manager or Apple Business Essentials. The generated files may contain information such as device identifiers of the devices you are trying to add to your organization, managed Apple ID addresses used to add the device and the application settings. This profile will expire after 7 days.
+
+Log files do not leave your device unless you decide to share them with Apple by sending a syslog or sysdiagnose from the device. If you decide to share log files, you will be able to review them on any Mac (with macOS Sierra or later) prior to sending them to Apple.
+
+Logging can be turned off at any time while the Profile is installed by opening Settings, tapping “General,” then “Profiles &amp; Device Management,” then “Apple Configurator Debug Logging,” and tapping “Delete Profile.” Organization administrators can also remove this profile from a managed device via Apple Configurator or the MDM solution used to manage the device.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of your information in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Apple Configurator Debug Logging</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.configurator</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>EDEE697C-EF7A-427D-8B1C-B0A827407D02</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.AutomatedDeviceEnrollment.adddevices</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Public</string>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.automateddeviceenrollment.framework</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Public</string>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.devicemanagementtools</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Public</string>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.ios.configurator</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Public</string>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Apple Configurator Debug Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Configurator Debug Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mobileconfig.configurator.logging.debug.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadScope</key>
+	<string>system</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B92AFCAD-1959-4194-84AA-62383BE3A833</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-02-02T08:00:00Z</date>
+</dict>
+</plist>

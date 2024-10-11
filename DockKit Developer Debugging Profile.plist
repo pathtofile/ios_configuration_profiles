@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The DockKit Developer Debugging Profile generates files that allow Apple and developers to troubleshoot issues related to DockKit enabled products, and help Apple improve its products and services. The generated files may contain personal information, including your name, email address, serial numbers of your devices, unique identifiers of nearby DockKit accessories, and usage details of paired accessories, such as when interactions start and end, which apps are interacting with DockKit, when subjects leave or arrive in view, and motion data related to DockKit operations. Logs from connected DockKit enabled accessories may also be included and may contain sensor measurements, motion data, and other related application data from the accessory operation. If you install this profile, it will automatically turn the logging on, and this data will be captured when you take a Sysdiagnose on this device. The data will not leave the device unless you initiate a Sysdiagnose and send the results. The profile will expire after 3 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "DockKit Developer Debugging Profile," and tap "Delete Profile." To turn off logging on your macOS, open Settings, tap Profiles, tap "DockKit Developer Debugging Profile", and tap "-" to remove.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy). You will be able to review the log files on your computer prior to sending them to Apple.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>259200.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>da3fe159-a9ef-47b6-92d5-b8487347a79c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.DockKitCore</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.dockaccessoryd</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>COLLECT_ACCESSORY_DIAGNOSTICS</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.dockaccessoryd</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>DD8412B1-E6BD-4F5B-9B80-75181DB6289C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables DockKit Developer Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>DockKit Developer Debugging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.DockKit.LoggingProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D0C60FC1-31FD-4346-8A71-372EA3711DDB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-10-04T07:00:00Z</date>
+</dict>
+</plist>

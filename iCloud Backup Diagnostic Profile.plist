@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>cs</key>
+		<string>Profil diagnostiky zálohování na iCloud generuje soubory, které společnosti Apple umožňují řešit problémy s vaším zařízením a pomáhají jí zlepšovat své produkty a služby. Vytvořené soubory mohou obsahovat některé vaše osobní údaje včetně názvů souborů a stavu jejich zálohování na vašem iCloudu.
+
+Když je profil nainstalovaný, můžete protokolování kdykoli zapnout a vypnout a také budete moci procházet soubory na svém počítači před jejich odesláním společnosti Apple. Chcete-li protokolování vypnout, otevřete Nastavení a pak postupně klepněte na Obecné, Profily, Profil diagnostiky zálohování na iCloud a Odstranit.
+
+Zapnutím tohoto diagnostického nástroje a zasláním kopie vytvořených souborů společnosti Apple vyjadřujete svůj souhlas s tím, že Apple bude obsah těchto souborů používat v souladu se svými zásadami ochrany osobních údajů (http://www.apple.com/legal/privacy/cz).</string>
+		<key>da</key>
+		<string>Profilen til diagnosticering af iCloud-sikkerhedskopiering opretter filer, der giver Apple mulighed for at foretage fejlfinding af problemer med din enhed, og hjælper dermed Apple med at forbedre sine produkter og tjenester. De oprettede filer kan indeholde nogle af dine personlige oplysninger, herunder filnavne og status for sikkerhedskopiering af filer i iCloud.
+
+Du kan når som helst slå logning til og fra, mens profilen er installeret, og du kan gennemse logfilerne på din computer, før du sender dem til Apple. Hvis du vil slå logning fra, skal du åbne Indstillinger, trykke på Generelt, trykke på �Profiler�, trykke på profilen til diagnosticering af iCloud-sikkerhedskopiering og derefter trykke på �Fjern.�
+
+Ved at aktivere dette diagnosticeringsværktøj og sende en kopi af de oprettede filer til Apple accepterer du, at Apple bruger indholdet af nævnte filer i henhold til politikken for beskyttelse af personlige oplysninger (http://www.apple.com/legal/privacy/dk).</string>
+		<key>de</key>
+		<string>Das Profil "iCloud Backup Diagnostics" (iCloud-Backup-Diagnose) generiert Dateien, mit denen Apple Probleme mit Ihrem Gerät beheben und Apple-Produkte und -Services weiter verbessern kann. Die generierten Dateien können einige personenbezogene Daten enthalten, wie den Dateinamen und den Backup-Status in Ihrer iCloud.
+
+Sie können die Protokollierung jederzeit ein- und ausschalten, während das Profil installiert wird. Und Sie können die Protokolldateien auf Ihrem Computer anzeigen, bevor Sie sie an Apple senden.  Zum Ausschalten der Protokollierung öffnen Sie die Einstellungen, tippen auf "Allgemein", "Profile", "iCloud Backup Diagnostic Profile" (Profil "iCloud-Backup-Diagnose") und auf "Entfernen".
+
+Indem Sie dieses Diagnosetool aktivieren und eine Kopie der generierten Dateien an Apple senden, erklären Sie sich damit einverstanden, dass Apple den Inhalt dieser Dateien entsprechend seiner Datenschutzrichtlinie verwenden darf (http://www.apple.com/de/legal/privacy).</string>
+		<key>el</key>
+		<string>Το προφίλ "iCloud Backup Diagnostic" δημιουργεί αρχεία που επιτρέπουν στην Apple να αντιμετωπίσει προβλήματα με τη συσκευή σας και τη βοηθούν να βελτιώσει τα προϊόντα και τις υπηρεσίες της. Τα αρχεία που δημιουργούνται ενδέχεται να περιέχουν ορισμένες προσωπικές πληροφορίες σας όπως τα ονόματα των αρχείων και την κατάσταση των εφεδρικών αντιγράφων των αρχείων σας στο iCloud.
+
+Στο διάστημα που το προφίλ είναι εγκατεστημένο, μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε την καταγραφή ανά πάσα στιγμή και να ελέγξετε τα αρχεία καταγραφής στον υπολογιστή σας πριν την αποστολή τους στην Apple. Για να απενεργοποιήσετε την καταγραφή, ανοίξτε τις Ρυθμίσεις και επιλέξτε με τη σειρά: Προφίλ, iCloud Backup Diagnostic Profile και Κατάργηση.�
+
+Με την ενεργοποίηση αυτού του εργαλείου διαγνωστικού ελέγχου και την αποστολή ενός αντίγραφου των αρχείων που δημιουργήθηκαν στην Apple, συμφωνείτε ότι η Apple μπορεί να χρησιμοποιεί το περιεχόμενο αυτών των αρχείων σύμφωνα με την πολιτική απορρήτου της (http://www.apple.com/legal/privacy/gr/).</string>
+		<key>en</key>
+		<string>The iCloud Backup Diagnostic Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its related products and services. The generated files may contain some of your personal information, including file names and full path names of your stored documents, the backup status of files in your iCloud, backup beginning and end times, amount of data backed up, photo metadata, your iCloud username, and the names of computers registered with your iCloud account. This profile will expire after 14 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple. To turn off logging, open Settings, tap “General,” tap “Profiles,” tap “iCloud Backup Diagnostic Profile,” and tap “Delete Profile.”
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+		<key>es</key>
+		<string>El perfil iCloud Backup Diagnostic genera una serie de archivos que permiten a Apple solucionar los problemas de tu dispositivo y mejorar sus productos y servicios. Los archivos generados pueden incluir datos personales, como los nombres de archivo y el estado de copia de seguridad de los archivos almacenados en iCloud.
+
+Tienes la opción de activar y desactivar el registro en cualquier momento mientras el perfil está instalado, y de revisar los archivos del registro en el ordenador antes de enviarlos a Apple. Para desactivar el registro, abre Ajustes y toca General y Perfiles. A continuación, toca el perfil iCloud Backup Diagnostic y Eliminar.�
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos de conformidad con su política de privacidad (http://www.apple.com/es/legal/privacy).</string>
+		<key>es-MX</key>
+		<string>El perfil de diagnóstico de la Copia de seguridad de iCloud genera archivos que le permiten a Apple resolver problemas con tu dispositivo y ayudan a mejorar sus productos y servicios. Los archivos generados pueden contener algo de tu información personal, incluidos los nombres de archivos y el estado de la copia de seguridad de los archivos en iCloud.
+
+Podrás activar o desactivar el inicio de sesión en cualquier momento mientras el perfil esté instalado y podrás revisar los archivos de registro en la computadora antes de enviarlos a Apple.  Para desactivar el inicio de sesión, abre Ajustes, toca General, �Perfiles�, �Perfil de diagnóstico de la Copia de seguridad de iCloud� y, luego, �Eliminar.�
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, estás aceptando que Apple utilice el contenido de dichos archivos según su política de privacidad (http://www.apple.com/legal/privacy).</string>
+		<key>fi</key>
+		<string>iCloud-varmuuskopioinnin diagnostiikkaprofiili luo tiedostoja, joiden avulla Apple voi määrittää laitteessasi olevia vikoja ja kehittää tuotteitaan ja palvelujaan. Luodut tiedostot voivat sisältää henkilökohtaisia tietojasi, kuten tiedostonimiä ja tiedon iCloudissa olevien tiedostojen varmuuskopiointitilasta.
+
+Voit ottaa kirjaamisen käyttöön tai poistaa sen käytöstä milloin vain, kun profiili on asennettuna, ja voit tarkastella lokitiedostoja tietokoneella ennen kuin lähetät ne Applelle.  Jos haluat poistaa kirjaamisen käytöstä, valitse Asetukset, Yleiset, Profiilit, iCloud-varmuuskopioinnin diagnostiikkaprofiili ja napauta Poista.�
+
+Jos otat diagnostiikkatyökalun käyttöön ja lähetät luoduista tiedostoista kopion Applelle, annat Applelle luvan käyttää näiden tiedostojen sisältöä tietosuojakäytäntönsä mukaisesti (http://www.apple.com/fi/legal/privacy).</string>
+		<key>fr</key>
+		<string>Le profil Diagnostics de Sauvegarde iCloud génère des fichiers qui permettent à Apple de résoudre des problèmes liés à votre appareil et aident Apple à améliorer ses produits et services. Les fichiers générés peuvent contenir des informations personnelles vous concernant, telles que les noms de fichiers et l’état de sauvegarde de vos fichiers dans iCloud.
+
+Vous pourrez activer et désactiver la journalisation à tout moment lorsque le profil est installé. Vous pourrez consulter les fichiers journaux sur votre ordinateur avant de les envoyer à Apple. Pour désactiver la journalisation, ouvrez Réglages, appuyez sur Général, �Profils�, �Profil Diagnostics de Sauvegarde iCloud�, puis sur �Supprimer.�
+
+En activant cet outil de diagnostic et en envoyant une copie des fichiers générés à Apple, vous acceptez qu’Apple utilise le contenu de ces fichiers conformément à son engagement de confidentialité (http://www.apple.com/fr/legal/privacy).</string>
+		<key>hr</key>
+		<string>Profil iCloud Backup Diagnostic generira datoteke koje Appleu omogućuju otklanjanje poteškoća s uređajem i pridonose poboljšanju Appleovih proizvoda i servisa. Generirane datoteke mogu sadržavati određene osobne podatke, uključujući nazive datoteka i stanje sigurnosnih kopija datoteka na servisu iCloud.
+
+Dok je profil instaliran, zapisivanje ćete moći uključiti i isključiti, a moći ćete i pregledati datoteke zapisnika na računalu prije njihova slanja Appleu. Da biste isključili zapisivanje, otvorite Postavke, dodirnite Općenito pa �Profili�, �iCloud Backup Diagnostic Profile�, a potom �Ukloni.�
+
+Kad omogućite ovaj dijagnostički alat i slanje kopije generiranih datoteka Appleu, pristajete na to da Apple koristi njihov sadržaj u skladu sa svojim pravilima o zaštiti privatnosti (http://www.apple.com/legal/privacy/hr/).</string>
+		<key>hu</key>
+		<string>Az iCloud biztonsági mentési diagnosztikai profil által generált fájlok segítségével az Apple el tudja végezni készülékének hibaelhárítását, és a profil révén az Apple tökéletesíteni tudja termékeit és szolgáltatásait. A generált fájlok tartalmazhatják személyes adatait, például fájlneveket és az iCloudban található fájlok biztonsági mentési állapotát.
+
+Amíg a profil a készülékre van telepítve, bármikor be- és kikapcsolhatja a naplózást, és megtekintheti a számítógépén található naplófájlokat az Apple-nek való elküldésük előtt. A naplózás kikapcsolásához nyissa meg a Beállítások menüt, és koppintson az Általános, �Profilok�, �iCloud biztonsági mentési diagnosztikai profil� menüpontra, majd az �Eltávolítás elemre.�
+
+A diagnosztikai eszköz használatának engedélyezésével és a generált fájlok Apple-nek való elküldésével Ön beleegyezik, hogy az Apple az adatvédelmi szabályzata (http://www.apple.com/legal/privacy/hu) szerint felhasználja a fájlokat.</string>
+		<key>id</key>
+		<string>Profil Diagnostik Cadangan iCloud menghasilkan file yang memungkinkan Apple menyelesaikan masalah perangkat Anda dan membantu Apple meningkatkan produk dan layanannya. File yang dihasilkan dapat berisi beberapa informasi pribadi, termasuk nama file, dan status cadangan file di iCloud Anda.
+
+Anda akan dapat menghidupkan dan mematikan pencatatan kapan saja saat Profil diinstal, dan akan dapat meninjau file log di komputer Anda sebelum mengirimkan file tersebut ke Apple.  Untuk mematikan pencatatan, buka Pengaturan, ketuk Umum, ketuk �Profil�, ketuk �Profil Diagnostik Cadangan iCloud� dan ketuk �Hapus.�
+
+Dengan mengaktifkan alat diagnostik ini dan mengirimkan salinan file yang dihasilkan ke Apple, Anda menyetujui penggunaan Apple atas konten file tersebut sesuai dengan kebijakan privasinya (http://www.apple.com/legal/privacy/id).</string>
+		<key>it</key>
+		<string>Il profilo Diagnostica backup iCloud genera file che consentono a Apple di risolvere i problemi relativi al tuo dispositivo e migliorare i propri prodotti e servizi. I file generati possono contenere alcune delle tue informazioni personali, compresi i nomi dei file e lo stato di backup dei file nel tuo iCloud.
+
+Mentre il profilo è installato, puoi attivare e disattivare la registrazione in qualsiasi momento e puoi esaminare i resoconti sul tuo computer prima di inviarli a Apple.  Per disattivare la registrazione, apri Impostazioni, tocca Generali, �Profili�, quindi �Profilo Diagnostica backup iCloud� e �Rimuovi�.
+
+Abilitando questo strumento di diagnostica e inviando una copia dei file generati a Apple, acconsenti che Apple utilizzi il contenuto di tali file in conformità con la sua politica sulla privacy (http://www.apple.com/it/legal/privacy).</string>
+		<key>ja</key>
+		<string>iCloud バックアップ診断プロファイルを使用すると、ファイルが生成されます。Apple はこのファイルをもとに、お客様のデバイスに関する問題のトラブルシューティングを行って、製品やサービス改善のために活用します。生成されるファイルには、ファイル名や iCloud におけるファイルのバックアップ状況など、お客様の個人情報が含まれる場合があります。
+
+プロファイルがインストールされている間、お客様はいつでもログ記録を有効または無効にすることができ、Apple に送信する前にコンピュータのログファイルの詳細を確認できます。ログ記録を無効にするには、「設定」を開き、「一般」&gt;「プロファイル」&gt;「iCloud バックアップ診断プロファイル」&gt;「削除」の順にタップします。�
+
+この診断ツールを有効にし、生成されたファイルのコピーを Apple に送信することにより、お客様は Apple がプライバシーポリシー (http://www.apple.com/jp/legal/privacy) にそって上記のファイルの内容を利用することに同意されたものとみなされます。</string>
+		<key>ko</key>
+		<string>iCloud 백업 진단 프로파일은 Apple이 사용자의 장비에서 발생한 문제를 해결하고 Apple의 제품 및 서비스를 개선하는 데 유용한 파일을 생성합니다. 생성된 파일에는 파일 이름 및 iCloud에 있는 파일의 백업 상태를 비롯하여 일부 개인 정보가 포함될 수 있습니다.
+
+프로파일이 설치되어 있는 동안 언제든지 로깅을 켜고 끌 수 있으며 로그 파일을 Apple에 보내기 전에 컴퓨터에서 검토할 수 있습니다. 로깅을 끄려면 '설정'을 열고 '일반', '프로파일', 'iCloud 백업 진단 프로파일' 및 '제거'를 차례대로 탭하십시오.�
+
+이 진단 도구를 활성화하고 생성된 파일의 복사본을 Apple로 보내면 Apple이 개인정보 취급방침(http://www.apple.com/legal/privacy/kr/)에 따라 해당 파일의 콘텐츠를 사용하는 것에 동의하는 것입니다.</string>
+		<key>nb</key>
+		<string>Profilen for diagnostikk av iCloud-sikkerhetskopiering oppretter filer som Apple bruker til å løse problemer med enheten din, og til å forbedre Apples produkter og tjenester. Filene som opprettes, kan inneholde visse personopplysninger, blant annet filnavn, og sikkerhetskopistatusen til filene i iCloud.
+
+Du kan når som helst slå logging på og av når profilen er installert, og du kan gjennomgå loggfilene på datamaskinen før du sender dem til Apple. Hvis du vil slå av logging, åpner du Innstillinger og trykker på Generelt, �Profiler�, �Profil for diagnostikk av iCloud-sikkerhetskopiering� og �Fjern.�
+
+Ved å aktivere diagnostikkverktøyet og sende Apple en kopi av filene som opprettes, samtykker du i at Apple kan bruke innholdet i slike filer i henhold til Apples retningslinjer for personvern (http://www.apple.com/legal/privacy/no).</string>
+		<key>nl</key>
+		<string>Het profiel ‘Diagnostische informatie over iCloud-reservekopie’ genereert bestanden waarmee Apple problemen met uw apparaat kan oplossen en waarmee Apple zijn producten en services kan verbeteren. De gegenereerde bestanden bevatten mogelijk uw persoonlijke informatie, zoals bestandsnamen en de back-upstatus van bestanden in uw iCloud.
+
+U kunt het bijhouden van een logbestand altijd in- of uitschakelen als het Profiel is geïnstalleerd en u kunt de logbestanden bekijken op uw computer voordat deze naar Apple worden verzonden.  Als u het bijhouden van logbestanden wilt uitschakelen, opent u Instellingen en tikt u op ‘Algemeen’, ‘Profielen’, ‘Diagnostische informatie over iCloud-reservekopie’ en vervolgens op ‘Verwijder’.�
+
+Als u dit diagnostische hulpprogramma inschakelt en een kopie van de gegenereerde bestanden naar Apple verzendt, gaat u ermee akkoord dat Apple de inhoud van dergelijke bestanden gebruikt in overeenstemming met het privacybeleid (http://www.apple.com/nl/legal/privacy).</string>
+		<key>pl</key>
+		<string>Profil iCloud Backup Diagnostic generuje pliki, które umożliwiają firmie Apple rozwiązywanie problemów z Twoim urządzeniem i pomagają jej w ulepszaniu oferowanych przez nią produktów i usług. Wygenerowane pliki mogą zawierać niektóre z Twoich danych osobowych, w tym nazwy plików i stan kopii zapasowej dla plików w usłudze iCloud.
+
+Po zainstalowaniu profilu możesz w dowolnej chwili włączać i wyłączać rejestrowanie, a także przeglądać pliki dziennika na komputerze przed wysłaniem ich do firmy Apple. Aby wyłączyć rejestrowanie, otwórz Ustawienia, stuknij opcję Ogólne, stuknij opcję Profile, stuknij opcję iCloud Backup Diagnostic Profile, a następnie stuknij opcję Usuń.
+
+Włączając to narzędzie diagnostyczne i wysyłając kopię wygenerowanych plików do firmy Apple, zgadzasz się na wykorzystanie zawartości tych plików przez firmę Apple zgodnie z przyjętymi przez nią zasadami ochrony prywatności (http://www.apple.com/pl/legal/privacy).</string>
+		<key>pt</key>
+		<string>O Perfil de diagnóstico da cópia de segurança do iCloud gera ficheiros que permitem à Apple avançar com a resolução de problemas com o seu dispositivo e ajudam a Apple a melhorar os produtos e serviços. Os ficheiros gerados podem conter as suas informações pessoais, incluindo nomes de ficheiros e estado da cópia de segurança de ficheiros no seu iCloud.
+
+É possível ligar e desligar este registo a qualquer altura enquanto o Perfil estiver instalado e rever os ficheiros de registo no seu computador antes de os enviar para a Apple.  Para desligar o registo, aceda a Definições &gt; Geral &gt; Perfis, toque em Perfil de Diagnóstico da Cópia de segurança do iCloud e, por fim, em Remover.�
+
+Ao ativar a ferramenta de diagnóstico e ao enviar uma cópia dos ficheiros gerados para a Apple, está a consentir que a Apple utilize o conteúdo dos ficheiros, de acordo com a Política de privacidade (http://www.apple.com/legal/privacy/pt/).</string>
+		<key>pt-BR</key>
+		<string>O perfil de Diagnóstico do Backup do iCloud gera arquivos que permitem que a Apple solucione problemas com o seu dispositivo e que a ajudam a melhorar seus produtos e serviços. Os arquivos gerados podem conter informações pessoais, incluindo nomes de arquivos e o status de backup dos arquivos no iCloud.
+
+É possível ativar e desativar os registros a qualquer momento enquanto o perfil estiver instalado, bem como visualizar os arquivos de registro em seu computador antes de enviá-los para a Apple.  Para desativar os registros, abra Ajustes e toque em Geral, �Perfis�, �Perfil de Diagnóstico do Backup do iCloud� e �Remover.�
+
+Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos arquivos gerados para a Apple, você autoriza a Apple a usar o conteúdo desses arquivos de acordo com sua política de privacidade (http://www.apple.com/br/legal/privacy).</string>
+		<key>ro</key>
+		<string>Profilul de diagnosticare a funcției de backup din iCloud generează fișiere care permit Apple să depaneze problemele legate de dispozitivul tău și care ajută Apple să-și îmbunătățească produsele și serviciile. Fișierele generate pot conține o parte din informațiile tale personale, inclusiv nume de fișiere și starea backupului fișierelor în iCloud.
+
+Poți activa și dezactiva înregistrarea în jurnal în orice moment cât timp este instalat Profilul și vei putea vedea fișierele jurnal pe computer înainte de a le trimite către Apple.  Pentru a dezactiva înregistrarea în jurnal, deschide Configurări, atinge General, atinge „Profiluri”, atinge „Profil diagnosticare backup iCloud” și atinge „Eliminați”.
+
+Prin activarea acestui instrument de diagnosticare și trimiterea unei copii a fișierelor generate către Apple, îți exprimi acordul cu utilizarea de către Apple a conținutului acestor fișiere în conformitate cu politica de confidențialitate a acesteia (http://www.apple.com/legal/privacy/ro/).</string>
+		<key>ru</key>
+		<string>Профиль диагностики резервного копирования iCloud генерирует файлы, которые позволяют специалистам Apple находить и устранять неполадки устройства, а также помогают Apple улучшать продукты и услуги. Генерируемые файлы могут содержать некоторые персональные данные, включая имена файлов и состояние резервного копирования файлов в iCloud.
+
+Когда установлен профиль, ведение журнала можно в любой момент включить или выключить. Кроме того, перед отправкой в Apple файлы журнала можно просмотреть на компьютере. Чтобы отключить ведение журнала, выберите «Настройки» &gt; «Основные» &gt; «Профили» &gt; «Профиль диагностики резервного копирования iCloud», затем нажмите «Удалить».�
+
+Включая этот инструмент диагностики и отправляя копию созданных файлов в Apple, вы соглашаетесь с тем, что Apple будет использовать содержимое этих файлов в соответствии со своей политикой конфиденциальности (http://www.apple.com/legal/privacy/ru).</string>
+		<key>sk</key>
+		<string>Profil iCloud Backup Diagnostic Profile (Profil diagnostiky zálohovania v službe iCloud) vytvára súbory, ktoré spoločnosti Apple umožňujú riešiť problémy s vaším zariadením a pomáhajú jej vylepšovať svoje produkty a služby. Vytvorené súbory môžu obsahovať vaše osobné informácie vrátane názov súborov a stavu zálohovania súborov vo vašom účte služby iCloud.
+
+Keď je nainštalovaný tento profil, môžete protokolovanie kedykoľvek zapnúť a vypnúť a protokolové súbory uložené v počítači si pred ich odoslaním spoločnosti Apple budete môcť prezrieť. Ak chcete protokolovanie vypnúť, otvorte ponuku Nastavenia a postupne klepnite na položky Všeobecné, Profily, iCloud Backup Diagnostic Profile (Profil diagnostiky zálohovania v službe iCloud) a Odstrániť.
+
+Zapnutím tohto diagnostického nástroja a odoslaním kópie vytvorených súborov spoločnosti Apple vyjadrujete svoj súhlas s používaním obsahu takýchto súborov spoločnosťou Apple v súlade s jej zásadami ochrany osobných údajov (http://www.apple.com/legal/privacy/sk/).</string>
+		<key>sv</key>
+		<string>Profilen iCloud-säkerhetskopieringsdiagnostik genererar filer som hjälper Apple att felsöka problem med din enhet och förbättra Apples produkter och tjänster. De genererade filerna kan innehålla viss personlig information, bland annat filnamn och säkerhetskopieringsstatus för dina filer på iCloud.
+
+Du kan slå på och av loggning när som helst när profilen är installerad och du kan granska loggfilerna på din dator innan du skickar dem till Apple.  Om du vill slå av loggningen öppnar du Inställningar och trycker på Allmänt, �Profiler�, �iCloud-säkerhetskopieringsdiagnostik� och sedan på �Ta bort.�
+
+Genom att aktivera detta diagnostikverktyg och skicka en kopia av de genererade filerna till Apple accepterar du att Apple använder innehållet i dessa filer i enlighet med sin integritetspolicy (http://www.apple.com/legal/privacy/se).</string>
+		<key>th</key>
+		<string>โปรไฟล์ iCloud Backup Diagnostic สร้างไฟล์ซึ่งช่วย Apple ในการแก้ไขปัญหาที่เกิดขึ้นกับอุปกรณ์ของคุณ และช่วย Apple ในการปรับปรุงผลิตภัณฑ์และบริการให้ดียิ่งขึ้น ไฟล์ที่สร้างขึ้นอาจประกอบด้วยข้อมูลส่วนบุคคลบางส่วนของคุณ รวมถึงชื่อไฟล์ และสถานะการสำรองข้อมูลของไฟล์ใน iCloud ของคุณ
+
+คุณจะสามารถเปิดหรือปิดบันทึกข้อมูลได้ทุกเมื่อในระหว่างติดตั้งโปรไฟล์ และจะสามารถตรวจทานไฟล์บันทึกข้อมูลบนคอมพิวเตอร์ของคุณก่อนส่งให้แก่ Apple  หากต้องการปิดบันทึกข้อมูล ให้เปิด การตั้งค่า แตะที่ ทั่วไป แตะที่ �โปรไฟล์� แตะที่ �โปรไฟล์ iCloud Backup Diagnostic� และแตะที่ �ลบออก�
+
+ในการเปิดใช้งานเครื่องมือการวินิจฉัยนี้และการส่งสำเนาไฟล์ที่สร้างขึ้นให้แก่ Apple ถือว่าคุณยินยอมให้ Apple ใช้เนื้อหาของไฟล์ดังกล่าวตามนโยบายความเป็นส่วนตัว (http://www.apple.com/legal/privacy/th)</string>
+		<key>tr</key>
+		<string>iCloud Yedekleme Tanıları Profili, Apple'ın aygıtınızla ilgili sorunları gidermesini sağlayan ve Apple'ın ürün ve hizmetlerini geliştirmesine yardımcı olan dosyalar oluşturur. Oluşturulan dosyalar dosya adları ve iCloud'daki dosyalarınızın yedeklenme durumu dahil bazı kişisel bilgilerinizi içerir.
+
+Profil yüklü olduğunda, günlük tutmayı istediğiniz zaman açıp kapatabilir ve bilgisayarınızdaki günlük dosyalarını Apple'a göndermeden önce gözden geçirebilirsiniz.  Günlük tutmayı kapatmak için, Ayarlar'ı açın ve ardından "Genel", �Profiller�, �iCloud Yedekleme Tanısı Profili� ve �Kaldır'a dokunun.�
+
+Bu tanılama aracını etkinleştirerek ve oluşturulan dosyaların bir kopyasını Apple'a göndererek Apple'ın bu dosyaların içeriğini gizlilik politikasına (http://www.apple.com/legal/privacy/tr/) uygun şekilde kullanacağını kabul edersiniz.</string>
+		<key>zh-Hans</key>
+		<string>iCloud 云备份诊断描述文件生成的文件可让 Apple 对您的设备出现的问题进行故障诊断，并可帮助 Apple 改善其产品和服务。生成的文件可能包含您的一些个人信息，其中包括文件名称以及 iCloud 中文件的备份状态。
+
+您能在安装此描述文件的过程中随时打开和关闭记录功能，并且在将日志文件发送给 Apple 之前，您能在电脑上查看这些日志文件。要关闭记录功能，请打开“设置”，然后依次轻按“通用”、“描述文件”、“iCloud 云备份诊断描述文件”和“移除”。
+
+启用此诊断工具并向 Apple 发送所生成文件的副本，即表示您同意 Apple 遵循其隐私政策 (http://www.apple.com/legal/privacy/szh/) 使用此类文件的内容。</string>
+		<key>zh-Hant</key>
+		<string>iCloud Backup Diagnostic Profile 產生的檔案可讓 Apple 進行裝置問題故障診斷，並協助 Apple 改進其產品和服務。所產生的檔案可能包含您的部分個人資訊，包括檔案名稱以及您的 iCloud 檔案備份狀態。
+
+安裝此描述檔後，您可以隨時開啟和關閉記錄，而且在傳送記錄檔到 Apple 之前，也可以在電腦上先檢閱記錄檔。若要關閉記錄，請開啟「設定」，點一下「一般」，然後點一下「描述檔」，再點一下 iCloud Backup Diagnostic Profile，接著點一下「移除」。
+
+根據 Apple 的隱私權政策（http://www.apple.com/tw/legal/privacy），啟用此檢測工具並傳送所產生檔案的拷貝給 Apple，代表您同意 Apple 使用這類檔案的內容。</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>F5ABDC18-1331-466F-9C82-4C9D80A23775</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.cloudkit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mmcs</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mobilebackup</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>LogLevel</key>
+						<string>DEBUG</string>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.MobileBackup</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>DebugLevel</key>
+						<integer>4</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.mmcs</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>logLevel</key>
+						<integer>7</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.accountsd</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>com.apple.AOSKit.LogLevel</key>
+						<integer>7</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>A30DF61A-6C95-4855-9ACF-BA5C00C820E5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables iCloud Backup diagnostic logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>iCloud Backup Diagnostic Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.MobileBackup.logging.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3BD685C3-A9CD-4256-B791-864C6A03E934</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-09-08T07:00:00Z</date>
+</dict>
+</plist>

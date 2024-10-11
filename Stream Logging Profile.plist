@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The CoreMedia Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The files generated while the profile is installed may contain the URL of the content being played and its server IP address, and will also include a detailed log of your device‚ OS operations. The profile will expire after 7 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging, open Settings, tap General, tap "Profiles," tap "Stream Logging Profile," and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>boss_trace</key>
+						<integer>1</integer>
+						<key>cfbyteflume_trace</key>
+						<integer>1</integer>
+						<key>crabs_trace</key>
+						<integer>1</integer>
+						<key>fhttpchunk_trace</key>
+						<integer>1</integer>
+						<key>fp_trace</key>
+						<integer>2</integer>
+						<key>logurls</key>
+						<integer>1</integer>
+						<key>playlist_trace</key>
+						<integer>1</integer>
+						<key>stream_trace</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.coremedia</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>42EA56AA-112D-4C8D-9176-A40628E79B3C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.coremedia.logging</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>96FB2161-3FF2-49AC-A895-02FFB4DA3990</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.coremedia</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables logging for HLS and File Playback</string>
+	<key>PayloadDisplayName</key>
+	<string>Stream Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.coremediaProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9DDA9EA3-3BC1-4BA7-9B32-67C4760786B2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-07-14T07:00:00Z</date>
+</dict>
+</plist>

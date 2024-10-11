@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>
+The GameKit Debug Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including your Game Center account identifiers, your game activity, and your Game Center friends.
+This profile will expire after 3 days.
+You will be able to turn logging off at any time while the Profile is installed. On your Apple TV, open Settings, tap "General", then "Profiles", tap "GameKit.mobileconfig", and tap "Remove Profile". To turn off logging on your iOS device, open Settings, tap "General", and tap "VPN &amp; Device Management," then "GameKit.mobileconfig," and finally "Remove Profile." To turn off logging on your Mac, choose "System Settings", then "Privacy &amp; Security", then "Profiles," then click on "GameKit.mobileconfig" and delete. To turn off logging on your Apple Watch, launch the Apple Watch app on your iPhone, tap "General", then tap "Diagnostic Logs," then "GameKit.mobileconfig" and on your Apple Watch, open Settings, tap "General", then "Profiles", tap "GameKit.mobileconfig", and tap "Remove Profile". You will also be able to review the log files on your computer prior to sending them to Apple.
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.
+      </string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>259200.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.example.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>
+	  BB8D8F2C-593F-4AE2-B8C5-404A5EFB878F
+	</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.GameKit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Private</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets logging preferences</string>
+	<key>PayloadDisplayName</key>
+	<string>Logging Profile Example</string>
+	<key>PayloadIdentifier</key>
+	<string>
+    	com.apple.GameKit
+    </string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>29069E95-3181-4164-ACA6-5FD0839132CB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-10-04T07:00:00Z</date>
+</dict>
+</plist>

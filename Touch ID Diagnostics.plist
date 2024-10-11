@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>cs</key>
+		<string>Profil diagnostiky Touch ID generuje soubory, které společnosti Apple umožňují řešit problémy s vaším zařízením a pomáhají jí zlepšovat své produkty a služby. Vytvořené soubory mohou obsahovat některé vaše osobní údaje včetně informací o způsobu, jakým používáte Touch ID. Profil po 7 dnech vyprší. 
+
+Když je profil nainstalovaný, můžete protokolování kdykoli zapnout a vypnout. Na iOS zařízení protokolování vypnete tak, že otevřete Nastavení, klepnete na Obecné, potom na Profily, klepnete na Diagnostika Touch ID a zvolíte Odstranit profil.
+
+Zapnutím tohoto diagnostického nástroje a zasláním kopie vytvořených souborů společnosti Apple vyjadřujete svůj souhlas s tím, že Apple bude obsah těchto souborů používat v souladu se svými zásadami ochrany osobních údajů (http://www.apple.com/legal/privacy/cz).</string>
+		<key>da</key>
+		<string>Profilen til diagnosticering af Touch ID opretter filer, der giver Apple mulighed for at foretage fejlfinding af problemer med din enhed, og hjælper dermed Apple med at forbedre sine produkter og tjenester. De oprettede filer kan indeholde nogle af dine personlige oplysninger, herunder oplysninger om brug af dit Touch ID. Beskrivelsen udløber efter 7 dage. 
+
+Du kan når som helst slå logning til og fra, mens beskrivelsen er installeret. Hvis du vil slå logning fra på din iOS-enhed, skal du åbne Indstillinger, trykke på Generelt, trykke på Beskrivelser, trykke på Touch ID-diagnostik og trykke på Slet beskrivelse.
+
+Ved at aktivere dette diagnosticeringsværktøj og sende en kopi af de oprettede filer til Apple accepterer du, at Apple bruger indholdet i nævnte filer i henhold til politikken for beskyttelse af personlige oplysninger (http://www.apple.com/legal/privacy/dk).</string>
+		<key>de</key>
+		<string>Das Profil "Touch ID Diagnostics" (Touch ID-Diagnose) generiert Dateien, mit denen Apple Probleme mit Ihrem Gerät beheben und Apple-Produkte und -Services weiter verbessern kann. Die generierten Dateien können einige personenbezogene Daten enthalten, einschließlich Informationen zu Ihrer Touch-ID-Verwendung. Das Profil läuft nach 7 Tagen ab.
+
+Sie können die Protokollerstellung, während das Profil installiert ist, jederzeit aktivieren und deaktivieren. Um die Protokollerstellung auf Ihrem iOS-Gerät zu deaktivieren, öffnen Sie "Einstellungen", tippen Sie auf "Allgemein", dann auf "Profile" und "Touch ID-Diagnose" und abschließend auf "Profil entfernen".
+
+Indem Sie dieses Diagnosetool aktivieren und eine Kopie der generierten Dateien an Apple senden, erklären Sie sich damit einverstanden, dass Apple den Inhalt dieser Dateien entsprechend seiner Datenschutzrichtlinie verwenden darf (http://www.apple.com/de/legal/privacy).</string>
+		<key>el</key>
+		<string>Το προφίλ "Touch ID Diagnostics" δημιουργεί αρχεία που επιτρέπουν στην Apple να αντιμετωπίσει προβλήματα με τη συσκευή σας και τη βοηθούν να βελτιώσει τα προϊόντα και τις υπηρεσίες της. Τα αρχεία που δημιουργούνται ενδέχεται να περιέχουν ορισμένες προσωπικές πληροφορίες σας, όπως είναι η χρήση του Touch ID σας. Το προφίλ θα λήξει μετά από 7 ημέρες. 
+
+Για όσο διάστημα είναι εγκατεστημένο το προφίλ, μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε την καταγραφή ανά πάσα στιγμή. Για να απενεργοποιήσετε την καταγραφή στη συσκευή iOS, ανοίξτε τις Ρυθμίσεις, πατήστε «Γενικά», μετά «Προφίλ», κατόπιν «Touch ID Diagnostics» και τέλος «Διαγραφή προφίλ».
+
+Με την ενεργοποίηση αυτού του εργαλείου διαγνωστικού ελέγχου και την αποστολή ενός αντίγραφου των αρχείων που δημιουργήθηκαν στην Apple, συμφωνείτε ότι η Apple μπορεί να χρησιμοποιεί το περιεχόμενο αυτών των αρχείων σύμφωνα με την πολιτική απορρήτου της (http://www.apple.com/legal/privacy/gr/).</string>
+		<key>en</key>
+		<string>The Touch ID Diagnostics Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including information about your Touch ID usage. The profile will expire after 7 days. 
+        
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "Touch ID Diagnostics" and tap "Remove Profile." 
+     
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+		<key>es</key>
+		<string>El perfil Touch ID Diagnostics genera una serie de archivos que permiten a Apple solucionar los problemas de tu dispositivo y mejorar sus productos y servicios. Los archivos generados pueden incluir datos personales, como información sobre tu uso de Touch ID. El perfil caducará pasados 7 días.
+
+Podrás activar y desactivar el registro en cualquier momento siempre mientras esté instalado el perfil. Desactiva el registro en tu dispositivo iOS, abre Ajustes, pulsa General y, después, Perfiles. A continuación, pulsa Diagnósticos de Touch ID y, por último, Eliminar perfil.
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos de conformidad con su política de privacidad (http://www.apple.com/es/legal/privacy).</string>
+		<key>es-419</key>
+		<string>El perfil de diagnóstico de Touch ID genera archivos que le permiten a Apple resolver problemas con tu dispositivo y ayudan a mejorar sus productos y servicios. Los archivos generados pueden contener algo de tu información personal, incluida la información sobre el uso de tu Touch ID. El perfil vencerá después de 7 días. 
+
+Podrás activar o desactivar la generación de registros en cualquier momento siempre que el perfil esté instalado. Para desactivar la generación de registros en tu dispositivo iOS, abre Configuración, toca General, toca Perfiles, toca Diagnóstico de Touch ID y, por último, toca Eliminar perfil.
+
+Al habilitar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, estás aceptando que Apple utilice el contenido de dichos archivos según su política de privacidad (http://www.apple.com/legal/privacy).</string>
+		<key>es-MX</key>
+		<string>El perfil de diagnóstico de Touch ID genera archivos que le permiten a Apple resolver problemas con tu dispositivo y ayudan a mejorar sus productos y servicios. Los archivos generados pueden contener algo de tu información personal, incluida la información sobre el uso de tu Touch ID. El perfil vencerá después de 7 días.
+
+Podrás activar o desactivar la generación de registros en cualquier momento siempre que el perfil esté instalado. Para desactivar la generación de registros en tu dispositivo iOS, abre Configuración, toca General, toca Perfiles, toca Diagnóstico de Touch ID y, por último, toca Eliminar perfil.
+
+Al habilitar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, estás aceptando que Apple utilice el contenido de dichos archivos según su política de privacidad (http://www.apple.com/legal/privacy).</string>
+		<key>fi</key>
+		<string>Touch ID:n diagnostiikkaprofiili luo tiedostoja, joiden avulla Apple voi määrittää laitteessasi olevia vikoja ja kehittää tuotteitaan ja palvelujaan. Luodut tiedostot voivat sisältää henkilökohtaisia tietojasi, kuten Touch ID:n käyttötietoja. Profiili on voimassa seitsemän päivää. 
+
+Voit ottaa kirjaamisen käyttöön ja poistaa sen käytöstä milloin tahansa, kun profiili on asennettuna. Jos haluat poistaa kirjaamisen käytöstä iOS-laitteessasi, napauta Asetukset &gt; Yleiset &gt; Profiilit &gt; Touch ID -diagnostiikka &gt; Poista profiili.
+
+Jos otat diagnostiikkatyökalun käyttöön ja lähetät luoduista tiedostoista kopion Applelle, annat Applelle luvan käyttää näiden tiedostojen sisältöä tietosuojakäytäntönsä mukaisesti (http://www.apple.com/fi/legal/privacy).</string>
+		<key>fr</key>
+		<string>Le profil Diagnostics de Touch ID génère des fichiers qui permettent à Apple de résoudre des problèmes liés à votre appareil et aident Apple à améliorer ses produits et services. Les fichiers générés peuvent contenir des informations personnelles vous concernant, y compris des informations sur votre utilisation de Touch ID. Le profil expire au bout de 7 jours. 
+
+Vous pourrez activer et désactiver la journalisation à tout moment pendant que le profil est installé. Pour désactiver la journalisation sur votre appareil iOS, accédez à Réglages, touchez Général, puis « Profils », « Diagnostics Touch ID » et enfin « Supprimer le profil ».
+
+En activant cet outil de diagnostic et en envoyant une copie des fichiers générés à Apple, vous acceptez qu’Apple utilise le contenu de ces fichiers conformément à son engagement de confidentialité (http://www.apple.com/fr/legal/privacy).</string>
+		<key>hr</key>
+		<string>Profil Touch ID Diagnostics generira datoteke koje Appleu omogućuju otklanjanje poteškoća s uređajem i pridonose poboljšanju Appleovih proizvoda i servisa. Generirane datoteke mogu sadržavati određene osobne podatke, uključujući podatke o korištenju značajke Touch ID. Profil istječe za 7 dana.
+
+Nakon instalacije profila stvaranje zapisnika možete isključiti u bilo kojem trenutku. Da biste isključili izradu zapisa na iOS uređaju, otvorite Postavke, dodirnite Općenito, pa "Profili", zatim "Touch ID Diagnostics" te na kraju "Izbriši profil".
+
+Kad omogućite ovaj dijagnostički alat i slanje kopije generiranih datoteka Appleu, pristajete na to da Apple koristi sadržaj takvih datoteka u skladu sa svojim pravilima o zaštiti privatnosti (http://www.apple.com/legal/privacy/hr/).</string>
+		<key>hu</key>
+		<string>A Touch ID diagnosztikai profil által generált fájlok segítségével az Apple el tudja végezni készülékének hibaelhárítását, és a profil révén az Apple tökéletesíteni tudja termékeit és szolgáltatásait. A generált fájlok tartalmazhatják személyes adatait, például hogy milyen módon használta a Touch ID funkciót. A profil 7 napon belül lejár. 
+
+Bármikor be- és kikapcsolhatja a naplózást a profil telepítése közben. A naplózás kikapcsolásához iOS-készülékén lépjen a Beállítások alkalmazásba, és koppintson az Általános, a „Profilok”, a „Touch ID diagnosztika”, végül pedig a „Profil törlése” elemre.
+
+A diagnosztikai eszköz használatának engedélyezésével és a generált fájlok Apple-nek való elküldésével Ön beleegyezik, hogy az Apple az adatvédelmi szabályzata (http://www.apple.com/legal/privacy/hu) szerint felhasználja a fájlokat.</string>
+		<key>id</key>
+		<string>Profil Diagnostik Touch ID menghasilkan file yang memungkinkan Apple menyelesaikan masalah perangkat Anda dan membantu Apple meningkatkan produk dan layanannya. File yang dihasilkan dapat berisi beberapa informasi pribadi, termasuk informasi mengenai penggunaan Touch ID Anda. Profil tersebut akan kedaluwarsa setelah 7 hari.
+
+Anda akan dapat mengaktifkan dan menonaktifkan pencatatan kapan saja jika Profil telah diinstal. Untuk menonaktifkan, masuk ke perangkat iOS, buka Pengaturan, ketuk Umum, ketuk "Profil", ketuk "Diagnostik Touch ID", lalu ketuk "Hapus Profil”.
+
+Dengan mengaktifkan alat diagnostik ini dan mengirimkan salinan file yang dihasilkan ke Apple, Anda menyetujui penggunaan Apple atas konten file tersebut sesuai dengan kebijakan privasinya (http://www.apple.com/legal/privacy/id).</string>
+		<key>it</key>
+		<string>Il profilo Diagnostica Touch ID genera file che consentono a Apple di risolvere i problemi relativi al tuo dispositivo e migliorare i propri prodotti e servizi. I file generati possono contenere alcune delle tue informazioni personali, incluse le informazioni relative all'utilizzo del Touch ID. Il profilo scade dopo 7 giorni. 
+
+Mentre il profilo è installato, puoi attivare e disattivare la registrazione in qualsiasi momento. Per disattivare la registrazione sul tuo dispositivo iOS, apri Impostazioni, tocca Generali, tocca “Profili”, tocca “Diagnostica Touch ID”, quindi tocca “Rimuovi profilo”.
+
+Abilitando questo strumento di diagnostica e inviando una copia dei file generati a Apple, acconsenti che Apple utilizzi il contenuto di tali file in conformità con la sua politica sulla privacy (http://www.apple.com/it/legal/privacy).</string>
+		<key>ja</key>
+		<string>Touch ID 診断プロファイルを使用すると、ファイルが生成されます。Apple はこのファイルをもとに、お客様のデバイスに関する問題のトラブルシューティングを行って、製品やサービス改善のために活用します。生成されるファイルには、Touch ID の使用状況に関する情報など、お客様の個人情報が含まれる場合があります。プロファイルは 7 日後に有効期限切れとなります。
+
+プロファイルをインストールした後は、いつでもログ収集を有効／無効にできます。iOS デバイスでログ収集を無効にするには、「設定」を開き、「一般」＞「プロファイル」＞「Touch ID 診断プロファイル」＞「プロファイルを削除」の順にタップしてください。
+
+この診断ツールを有効にし、生成されたファイルのコピーを Apple に送信することにより、お客様は Apple がプライバシーポリシー (http://www.apple.com/jp/legal/privacy) にそって上記のファイルの内容を利用することに同意されたものとみなされます。</string>
+		<key>ko</key>
+		<string>Touch ID 진단 프로파일은 Apple이 사용자의 장비에서 발생한 문제를 해결하고 Apple의 제품 및 서비스를 개선하는 데 유용한 파일을 생성합니다. 생성된 파일에는 Touch ID 사용에 대한 정보를 비롯하여 일부 개인 정보가 포함될 수 있습니다. 프로파일은 7일 후에 만료됩니다.
+
+프로파일이 설치되어 있는 동안 언제든지 로그 기록을 켜거나 끌 수 있습니다. iOS 기기에서 로그 기록을 끄려면 '설정'을 열고 '일반'을 탭한 다음 '프로파일', 'Touch ID 진단', '프로파일 삭제'를 차례로 탭합니다.
+
+이 진단 도구를 활성화하고 생성된 파일의 복사본을 Apple로 보내면 Apple이 개인정보 취급방침(http://www.apple.com/legal/privacy/kr/)에 따라 해당 파일의 콘텐츠를 사용하는 것에 동의하는 것입니다.</string>
+		<key>nb</key>
+		<string>Profilen for Touch ID-diagnostikk oppretter filer som Apple bruker til å løse problemer med enheten din, og til å forbedre Apples produkter og tjenester. Filene som opprettes, kan inneholde visse personopplysninger, blant annet informasjon om bruken av Touch ID. Profilen utløper etter 7 dager.
+
+Du kan når som helst slå loggføring av eller på mens profilen er installert. Hvis du vil slå av loggføring på iOS-enheten, åpner du Innstillinger, trykker på Generelt og deretter på «Profiler». Trykk på «Touch ID-diagnostikk» og så på «Slett profil».
+
+Ved å aktivere diagnostikkverktøyet og sende Apple en kopi av filene som opprettes, samtykker du i at Apple kan bruke innholdet i slike filer i henhold til Apples retningslinjer for personvern (http://www.apple.com/legal/privacy/no).</string>
+		<key>nl</key>
+		<string>Het profiel ‘Diagnostische informatie over Touch ID’ genereert bestanden waarmee Apple problemen met uw apparaat kan oplossen en waarmee Apple zijn producten en services kan verbeteren. De gegenereerde bestanden bevatten mogelijk uw persoonlijke informatie, inclusief informatie over uw gebruik van Touch ID. Het profiel verloopt na zeven dagen. 
+
+U kunt het bijhouden van logbestanden op elk moment in- en uitschakelen terwijl het profiel is geïnstalleerd. Als u het bijhouden van logbestanden wilt uitschakelen op uw iOS-apparaat, opent u 'Instellingen, tikt u op 'Profielen en daarna op 'Diagnostische informatie over Touch ID'. Tik vervolgens op 'Verwijder profiel'.
+
+Als u dit diagnostische hulpprogramma inschakelt en een kopie van de gegenereerde bestanden naar Apple verzendt, gaat u ermee akkoord dat Apple de inhoud van dergelijke bestanden gebruikt in overeenstemming met het privacybeleid (http://www.apple.com/nl/legal/privacy).</string>
+		<key>pl</key>
+		<string>Profil Touch ID Diagnostics generuje pliki, które umożliwiają firmie Apple rozwiązywanie problemów z Twoim urządzeniem i pomagają jej w ulepszaniu oferowanych przez nią produktów i usług. Wygenerowane pliki mogą zawierać niektóre z Twoich danych osobowych, w tym informacje na temat używania czytnika Touch ID. Profil wygasa po 7 dniach.
+
+Gdy profil jest zainstalowany, możesz w każdej chwili włączyć lub wyłączyć rejestrowanie. Aby wyłączyć rejestrowanie na urządzeniu z systemem iOS, otwórz Ustawienia, stuknij opcję Ogólne, stuknij opcję Profile, stuknij profil Touch ID Diagnostics, a następnie stuknij opcję Usuń profil.
+
+Włączając to narzędzie diagnostyczne i wysyłając kopię wygenerowanych plików do firmy Apple, zgadzasz się na wykorzystanie zawartości tych plików przez firmę Apple zgodnie z przyjętymi przez nią zasadami ochrony prywatności (http://www.apple.com/pl/legal/privacy).</string>
+		<key>pt</key>
+		<string>O Perfil de diagnóstico do Touch ID gera ficheiros que permitem à Apple avançar com a resolução de problemas com o seu dispositivo e ajudam a Apple a melhorar os produtos e serviços. Os ficheiros gerados podem conter a sua informação pessoal, incluindo informações sobre a utilização do seu Touch ID. O perfil irá expirar após 7 dias.
+
+Poderá ativar e desativar o registo em qualquer altura enquanto o Perfil é instalado. Para desativar o registo no dispositivo iOS, abra as Definições, toque em Geral e em Perfis. Em seguida, toque em "Diagnóstico do Touch ID" e em Apagar perfil.
+
+Ao ativar a ferramenta de diagnóstico e ao enviar uma cópia dos ficheiros gerados para a Apple, está a consentir que a Apple utilize o conteúdo dos ficheiros, de acordo com a Política de privacidade (http://www.apple.com/legal/privacy/pt/).</string>
+		<key>pt-BR</key>
+		<string>O perfil de Diagnóstico do Touch ID gera arquivos que permitem que a Apple solucione problemas com o seu dispositivo e que a ajudam a melhorar seus produtos e serviços. Os arquivos gerados podem conter informações pessoais, incluindo informações sobre o seu uso do Touch ID. O perfil expirará após 7 dias.
+
+Você poderá ativar e desativar o registro a qualquer momento enquanto o perfil estiver instalado. Para desativar o registro no dispositivo iOS, abra Ajustes, toque em Geral, depois "Perfis" e, em seguida, toque em "Diagnóstico do Touch ID" e, por último, toque em "Apagar Perfil".
+
+Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos arquivos gerados para a Apple, você autoriza a Apple a usar o conteúdo desses arquivos de acordo com sua política de privacidade (http://www.apple.com/br/legal/privacy).</string>
+		<key>ro</key>
+		<string>Profilul de diagnosticare a funcției Touch ID generează fișiere care permit Apple să depaneze problemele legate de dispozitivul tău și care ajută Apple să-și îmbunătățească produsele și serviciile. Fișierele generate pot conține o parte din informațiile tale personale, inclusiv informații despre utilizarea funcției Touch ID. Profilul va expira după 7 zile.
+
+Vei putea să activezi și să dezactivezi înregistrarea în jurnal oricând în timp ce profilul este instalat. Pentru a dezactiva înregistrarea în jurnal pe un dispozitiv iOS, deschide Configurări, atinge General, apoi „Profiluri”, „Diagnoză Touch ID” și „Ștergeți profilul”.
+
+Prin activarea acestui instrument de diagnosticare și trimiterea unei copii a fișierelor generate către Apple, îți exprimi acordul cu utilizarea de către Apple a conținutului acestor fișiere în conformitate cu politica de confidențialitate a acesteia (http://www.apple.com/legal/privacy/ro/).</string>
+		<key>ru</key>
+		<string>Профиль диагностики Touch ID генерирует файлы, которые позволяют специалистам Apple находить и устранять неполадки устройства, а также помогают Apple улучшать продукты и услуги. Генерируемые файлы могут содержать некоторые персональные данные, включая информацию об использовании Touch ID. Срок действия профиля истекает через 7 дней.
+
+Пока профиль установлен, вы сможете в любой момент включить или отключить возможность входа в систему. Чтобы отключить возможность входа в систему на устройстве iOS, перейдите в раздел «Настройки» &gt; «Основные» &gt; «Профили» &gt; «Диагностика Touch ID» и нажмите «Удалить профиль».
+
+Включая этот инструмент диагностики и отправляя копию созданных файлов в Apple, вы соглашаетесь с тем, что Apple будет использовать содержимое этих файлов в соответствии со своей политикой конфиденциальности (http://www.apple.com/legal/privacy/ru).</string>
+		<key>sk</key>
+		<string>Profil Touch ID Diagnostics Profile (Profil diagnostiky senzora Touch ID) vytvára súbory, ktoré spoločnosti Apple umožňujú riešiť problémy s vaším zariadením a pomáhajú jej vylepšovať svoje produkty a služby. Vytvorené súbory môžu obsahovať vaše osobné informácie vrátane informácií o spôsobe, akým používate senzor Touch ID. Platnosť profilu uplynie po 7 dňoch.
+
+Keď je tento profil nainštalovaný, môžete protokolovanie kedykoľvek zapnúť alebo vypnúť. Na zariadení so systémom iOS protokolovanie vypnete tak, že otvoríte menu Nastavenia a postupne klepnete na položky Všeobecné, Profily, Diagnostika Touch ID a Odstrániť profil.
+
+Zapnutím tohto diagnostického nástroja a odoslaním kópie vytvorených súborov spoločnosti Apple vyjadrujete svoj súhlas s používaním obsahu týchto súborov spoločnosťou Apple v súlade s jej zásadami ochrany osobných údajov (http://www.apple.com/legal/privacy/sk/).</string>
+		<key>sv</key>
+		<string>Profilen Touch ID-diagnostik genererar filer som hjälper Apple att felsöka problem med din enhet och förbättra Apples produkter och tjänster. De genererade filerna kan innehålla viss personlig information, bland annat information om din Touch ID-användning. Profilen löper ut om 7 dagar.
+
+Du kommer att kunna slå på och stänga av loggning så länge som profilen är installerad. Du kan stänga av loggning på din iOS-enhet genom att öppna Inställningar och trycka på Allmänt. Tryck sedan på Profiler, Touch ID-diagnostik och Ta bort profil.
+
+Genom att aktivera detta diagnostikverktyg och skicka en kopia av de genererade filerna till Apple accepterar du att Apple använder innehållet i dessa filer i enlighet med sin integritetspolicy (http://www.apple.com/legal/privacy/se).</string>
+		<key>th</key>
+		<string>โปรไฟล์ Touch ID Diagnostics สร้างไฟล์ซึ่งช่วย Apple ในการแก้ไขปัญหาที่เกิดขึ้นกับอุปกรณ์ของคุณ และช่วย Apple ในการปรับปรุงผลิตภัณฑ์และบริการให้ดียิ่งขึ้น ไฟล์ที่สร้างขึ้นอาจประกอบด้วยข้อมูลส่วนบุคคลบางส่วนของคุณ รวมถึงข้อมูลเกี่ยวกับการใช้งาน Touch ID ของคุณ โปรไฟล์นี้จะหมดอายุหลังจาก 7 วัน
+
+คุณจะสามารถเปิดและปิดการบันทึกได้ตลอดเวลาเมื่อคุณติดตั้งโปรไฟล์แล้ว หากต้องการปิด ให้เข้าสู่ระบบบนอุปกรณ์ iOS ของคุณแล้วเปิดการตั้งค่า แตะทั่วไป แตะ "โปรไฟล์" จากนั้นแตะ "การวินิจฉัย Touch ID" แล้วแตะ "ลบโปรไฟล์"
+
+ในการเปิดใช้งานเครื่องมือการวินิจฉัยนี้และการส่งสำเนาไฟล์ที่สร้างขึ้นให้แก่ Apple ถือว่าคุณยินยอมให้ Apple ใช้เนื้อหาของไฟล์ดังกล่าวตามนโยบายความเป็นส่วนตัว (http://www.apple.com/legal/privacy/th)</string>
+		<key>tr</key>
+		<string>Touch ID Tanıları Profili, Apple'ın aygıtınızla ilgili sorunları gidermesini sağlayan ve Apple'ın ürün ve hizmetlerini geliştirmesine yardımcı olan dosyalar oluşturur. Oluşturulan dosyalar Touch ID kullanımınız hakkında bilgiler dahil bazı kişisel bilgilerinizi içerebilir. Profilin süresi 7 gün sonra dolar.
+
+Profil yüklüyken günlük tutmayı dilediğiniz zaman açıp kapatabilirsiniz. iOS aygıtınızda günlük tutmayı kapatmak için Ayarlar'ı açıp sırasıyla Genel'e, "Profiller"e, "Touch ID Tanıları"na ve "Profili Sil"e dokunun.
+
+Bu tanılama aracını etkinleştirerek ve oluşturulan dosyaların bir kopyasını Apple'a göndererek Apple'ın bu dosyaların içeriğini gizlilik politikasına (http://www.apple.com/legal/privacy/tr/) uygun şekilde kullanacağını kabul edersiniz.</string>
+		<key>zh-Hans</key>
+		<string>Touch ID 诊断描述文件生成的文件可让 Apple 对您的设备出现的问题进行故障诊断，并可帮助 Apple 改善其产品和服务。生成的文件可能包含您的一些个人信息，其中包括有关您的 Touch ID 使用情况的信息。这个描述文件会在 7 天后失效。
+
+装好这个描述文件后，您可以随时打开和关闭日志记录功能。要在您的 iOS 设备上关闭日志记录功能，请打开“设置”，然后依次轻点“通用”、“描述文件”、“触控 ID 诊断”和“删除描述文件”。
+
+启用此诊断工具并向 Apple 发送所生成文件的副本，即表示您同意 Apple 遵循其隐私政策 (http://www.apple.com/legal/privacy/szh/) 使用此类文件的内容。</string>
+		<key>zh-Hant</key>
+		<string>Touch ID Diagnostics Profile 產生的檔案可讓 Apple 進行裝置問題故障診斷，並協助 Apple 改進其產品和服務。所產生的檔案可能包含您的部分個人資訊，包括您的 Touch ID 相關使用資訊。此描述檔將於 7 天後到期。
+        
+        安裝此描述檔後，您可以隨時開啟及關閉記錄功能。若要在您的 iOS 裝置上關閉記錄功能，請開啟「設定」，分別點一下「一般」、「描述檔」、「Touch ID Diagnostics」，然後點一下「刪除描述檔」。
+
+根據 Apple 的隱私權政策（http://www.apple.com/tw/legal/privacy），啟用此檢測工具並傳送所產生檔案的拷貝給 Apple，代表您同意 Apple 使用這類檔案的內容。</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>debugLogEnabled</key>
+						<true/>
+						<key>debugLogOSLogDisabled</key>
+						<false/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.biometrickitd</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>3AA1EE5D-A6DC-4BE7-8286-AAF7F8938AEE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Touch ID Logging Payload</string>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>2cb17420-1f7a-012e-6679-442c03067622</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.BiometricKit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Touch ID Diagnostics</string>
+	<key>PayloadDisplayName</key>
+	<string>Touch ID Diagnostics</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.biometrics.touchid</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9CEEA932-E1D0-4564-ABE2-CE23F3FF6D4D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-02-24T08:00:00Z</date>
+</dict>
+</plist>

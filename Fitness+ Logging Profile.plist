@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Fitness+ Logging Profile enables additional logging related to Fitness workouts you do, such as communication between your devices during a workout, and activity data related to the workout. When you submit logs to Apple, your information may be associated with your Apple ID, and your previous and future Fitness+ data may also be associated with your Apple ID. This profile will collect completed workout start and end times, workout types (walk, run, cycling, etc), goals (time, distance, calorie), pause and resume timestamps, indoor vs outdoor, swim type, workout type (Fitness+ or standard), workout segment durations and distance, GymKit machine type, Fitness+ workout identifier, Fitness+ workout title, Fitness+ workout completion percentage, elapsed time, distance, heart rate, Calories, elevation, pace, flights climbed, swimming stroke count, average METs, burn bar position, workout metric display preferences across devices, activity move mode (Fitness Jr. vs Standard), body mass, location latitude and longitude, weather, subscription status, account status, account type (iTunes Store vs AppleID), recommended workout identifiers, saved workout identifiers, downloaded workout information (identifier, date downloaded), synced/deleted identifiers (workout identifiers, bookmark identifiers, etc).
+    This profile will expire after 3 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple. To turn off logging, open Settings, tap General, tap "Profiles &amp; Device Management," tap "Fitness+ Logging" and tap "Delete Profile."
+
+This information is used by Apple in accordance with its privacy policy (http://www.apple.com/legal/privacy). and is not shared with any other company.  By using this tool and sending the results to Apple, you consent to Apple using the contents of these files to improve Apple products. Apple may use the data you submit to resolve any issues you or other users have encountered and to improve Apple products and services. Apple will retain this data for 6 months or until discovered issues are resolved.
+      
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>259200.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.fitness.logging</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>6FFF4392-9B3B-4DBE-A610-90480C3E35E2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.HealthKit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.Seymour</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<key>System</key>
+			<dict>
+				<key>Enable-Logging</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Fitness+ Logging</string>
+	<key>PayloadDisplayName</key>
+	<string>Fitness+ Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Fitness+LoggingProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8F9CAE68-6F13-44AB-8FEE-00CF6D9BFEE6</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-05-17T07:00:00Z</date>
+</dict>
+</plist>

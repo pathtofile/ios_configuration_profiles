@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Mobile Document Reader (Developer) Profile causes the system to return responses that allow you to test the Mobile Document Reader API without requiring a second device with a real mobile document added.
+		
+The system will return responses representing an artificial user, meaning the API responses do not contain data from a real person or driver's license. This profile will expire after 365 days.
+
+The API responses will not contain any personally identifiable information of any user, and are to be used only for testing this API.
+
+By enabling the Mobile Document Reader (Developer) Profile and receiving the generated files, you agree that you will not use the API responses for any purpose other than testing this API.
+
+At all times, information received by Apple will be treated in accordance with Apple's Privacy Policy, which can be found at www.apple.com/privacy.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>31536000.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>com.apple.mobile-document-reader.developer.test-mode</key>
+						<string>identity-test</string>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ProximityReader.mobile-document-reader.developer-test-mode</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>DBA3DB70-41BC-11EE-8F23-0800200C9A66</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables simulated mobile document responses to be returned from the Mobile Document Reader API.</string>
+	<key>PayloadDisplayName</key>
+	<string>Mobile Document Reader (Developer) Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ProximityReader.mobile-document-reader.developer</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C49119E5-9D09-4DF8-9689-C08AB0295DCC</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-09-21T07:00:00Z</date>
+</dict>
+</plist>

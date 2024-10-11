@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>cs</key>
+		<string>Profil diagnostického protokolování místa na disku generuje soubory, které společnosti Apple umožňují řešit problémy s vaším zařízením a pomáhají jí zlepšovat souborové systémy a související produkty a služby. Vytvořené soubory mohou obsahovat některé vaše osobní údaje včetně metadat vašich souborů, jako jsou názvy souborů, jejich velikost a datum vytvoření.
+
+    Když je profil nainstalovaný, můžete protokolování kdykoli zapnout a vypnout a také budete moci procházet soubory na svém počítači před jejich odesláním společnosti Apple. Chcete-li protokolování vypnout, otevřete Nastavení a pak postupně klepněte na Obecné, Profily, Profil diagnostického protokolování místa na disku a Odstranit.
+
+    Zapnutím tohoto diagnostického nástroje a zasláním kopie vytvořených souborů společnosti Apple vyjadřujete svůj souhlas s tím, že Apple bude obsah těchto souborů používat v souladu se svými zásadami ochrany osobních údajů (http://www.apple.com/legal/privacy/cz).</string>
+		<key>da</key>
+		<string>Profilen til logning af diagnosticering af diskplads opretter filer, der giver Apple mulighed for at foretage fejlfinding af problemer med din enhed, og hjælper dermed Apple med at forbedre filsystemer og relaterede produkter og tjenester. De oprettede filer kan indeholde nogle af dine personlige oplysninger, herunder metadata for filer, f.eks. filnavn, størrelse og oprettelsesdato.
+
+    Du kan når som helst slå logning til og fra, mens profilen er installeret, og du kan gennemse logfilerne på din computer, før du sender dem til Apple. Hvis du vil slå logning fra, skal du åbne Indstillinger, trykke på "Generelt", trykke på "Profiler", trykke på profilen til logning af diagnosticering af diskplads og derefter trykke på "Fjern".
+
+    Ved at aktivere dette diagnosticeringsværktøj og sende en kopi af de oprettede filer til Apple accepterer du, at Apple bruger indholdet af nævnte filer i henhold til politikken for beskyttelse af personlige oplysninger (http://www.apple.com/legal/privacy/dk).</string>
+		<key>de-DE</key>
+		<string>Das Profil "Disk Space Diagnostic Logging" (Speicherplatz-Diagnoseprotokollierung) generiert Dateien, mit denen Apple Probleme mit Ihrem Gerät beheben und Dateisysteme sowie zugehörige Produkte und Services weiter verbessern kann. Die generierten Dateien können einige personenbezogene Daten enthalten, einschließlich Ihrer Dateimetadaten, wie Dateinamen, Dateigrößen und Erstellungsdaten.
+
+    Sie können die Protokollierung jederzeit ein- und ausschalten, während das Profil installiert wird. Und Sie können die Protokolldateien auf Ihrem Computer anzeigen, bevor Sie sie an Apple senden.  Zum Ausschalten der Protokollierung öffnen Sie die Einstellungen, tippen auf "Allgemein", "Profile", "Disk Space Diagnostic Logging Profile" (Profil "Speicherplatz-Diagnoseprotokollierung") und auf "Entfernen".
+
+    Indem Sie dieses Diagnosetool aktivieren und eine Kopie der generierten Dateien an Apple senden, erklären Sie sich damit einverstanden, dass Apple den Inhalt dieser Dateien entsprechend seiner Datenschutzrichtlinie verwenden darf (http://www.apple.com/de/legal/privacy).</string>
+		<key>default</key>
+		<string>The Disk Space Diagnostic Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve file systems and related products and services. The generated files may contain some of your personal information, including your file metadata, such as file names, sizes, and creation dates. This profile will expire after 7 days.
+
+      You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple.  To turn off logging, open Settings, tap "General", tap "Profiles", tap "Disk Space Diagnostic Logging Profile" and tap "Remove."
+
+    By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+		<key>el</key>
+		<string>Το προφίλ "Disk Space Diagnostic Logging" δημιουργεί αρχεία που επιτρέπουν στην Apple να αντιμετωπίσει προβλήματα με τη συσκευή σας και τη βοηθούν να βελτιώσει τα συστήματα αρχείων και τα σχετικά προϊόντα και τις υπηρεσίες της. Τα αρχεία που δημιουργούνται ενδέχεται να περιέχουν ορισμένες προσωπικές πληροφορίες, συμπεριλαμβανομένων των μετα-δεδομένων αρχείων όπως τα ονόματα, τα μεγέθη και τις ημερομηνίες δημιουργίας των αρχείων σας.
+
+    Στο διάστημα που το προφίλ είναι εγκατεστημένο, μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε την καταγραφή ανά πάσα στιγμή και να ελέγξετε τα αρχεία καταγραφής στον υπολογιστή σας πριν την αποστολή τους στην Apple. Για να απενεργοποιήσετε την καταγραφή, ανοίξτε τις Ρυθμίσεις και επιλέξτε με τη σειρά: Προφίλ, Disk Space Diagnostic Logging Profile και Κατάργηση.
+
+    Με την ενεργοποίηση αυτού του εργαλείου διαγνωστικού ελέγχου και την αποστολή ενός αντίγραφου των αρχείων που δημιουργήθηκαν στην Apple, συμφωνείτε ότι η Apple μπορεί να χρησιμοποιεί το περιεχόμενο αυτών των αρχείων σύμφωνα με την πολιτική απορρήτου της (http://www.apple.com/legal/privacy/gr/).</string>
+		<key>es-419</key>
+		<string>El perfil de registro de diagnóstico de Disk Space genera archivos que le permiten a Apple resolver problemas con tu dispositivo y ayudan a mejorar los sistemas de archivos y los productos y servicios relacionados. Los archivos generados pueden contener algo de tu información personal, incluidos los metadatos de archivos, como nombres, tamaños y fechas de creación de archivos.
+
+    Podrás activar o desactivar el inicio de sesión en cualquier momento mientras el perfil esté instalado y podrás revisar los archivos de registro en la computadora antes de enviarlos a Apple.  Para desactivar el inicio de sesión, abre Ajustes, toca General, Perfiles, Perfil de registro de diagnóstico de Disk Space y, luego, Eliminar.
+
+    Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, estás aceptando que Apple utilice el contenido de dichos archivos según su política de privacidad (http://www.apple.com/legal/privacy).</string>
+		<key>es-ES</key>
+		<string>El perfil Disk Space Diagnostic Logging genera una serie de archivos que permiten a Apple solucionar los problemas de tu dispositivo y mejorar los sistemas de archivos y los productos y servicios relacionados. Los archivos generados pueden incluir datos personales, como los metadatos de tus archivos (por ejemplo, sus nombres, tamaños y fechas de creación).
+
+    Tienes la opción de activar y desactivar el registro en cualquier momento mientras el perfil está instalado, y de revisar los archivos del registro en el ordenador antes de enviarlos a Apple. Para desactivar el registro, abre Ajustes y toca General y Perfiles. A continuación, toca el perfil Disk Space Diagnostic Logging y Eliminar.
+
+    Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos de conformidad con su política de privacidad (http://www.apple.com/es/legal/privacy).</string>
+		<key>fi</key>
+		<string>Levytilan diagnostiikkakirjaamisprofiili luo tiedostoja, joiden avulla Apple voi määrittää laitteessasi olevia vikoja ja kehittää tiedostojärjestelmiä sekä niihin liittyviä tuotteita ja palveluja. Luodut tiedostot voivat sisältää henkilökohtaisia tietojasi, kuten tiedoston nimen, koon, luontipäivämäärän ja muita metatietoja.
+
+    Voit ottaa kirjaamisen käyttöön tai poistaa sen käytöstä milloin vain, kun profiili on asennettuna, ja voit tarkastella lokitiedostoja tietokoneella ennen kuin lähetät ne Applelle.  Jos haluat poistaa kirjaamisen käytöstä, valitse Asetukset, Yleiset, Profiilit, Levytilan diagnostiikkakirjaamisprofiili ja napauta Poista.
+
+    Jos otat diagnostiikkatyökalun käyttöön ja lähetät luoduista tiedostoista kopion Applelle, annat Applelle luvan käyttää näiden tiedostojen sisältöä tietosuojakäytäntönsä mukaisesti (http://www.apple.com/fi/legal/privacy).</string>
+		<key>fr-FR</key>
+		<string>Le profil Journalisation de diagnostic d’espace disque génère des fichiers qui permettent à Apple de résoudre des problèmes liés à votre appareil et aident Apple à améliorer les systèmes de fichiers ainsi que les produits et services qui y sont associés. Les fichiers générés peuvent contenir des informations personnelles vous concernant, notamment les métadonnées de vos fichiers, comme leur nom, leur taille et leur date de création.
+
+    Vous pourrez activer et désactiver la journalisation à tout moment lorsque le profil est installé. Vous pourrez consulter les fichiers journaux sur votre ordinateur avant de les envoyer à Apple. Pour désactiver la journalisation, ouvrez Réglages, appuyez sur « Général », « Profils », « Profil Journalisation de diagnostic d’espace disque », puis sur « Supprimer ».
+
+    En activant cet outil de diagnostic et en envoyant une copie des fichiers générés à Apple, vous acceptez qu’Apple utilise le contenu de ces fichiers conformément à son engagement de confidentialité (http://www.apple.com/fr/legal/privacy).</string>
+		<key>hr</key>
+		<string>Profil Disk Space Diagnostic Logging generira datoteke koje Appleu omogućuju otklanjanje poteškoća s uređajem i pridonose poboljšanju Appleovih proizvoda i servisa. Generirane datoteke mogu sadržavati određene osobne podatke, uključujući metapodatke datoteka, kao što su nazivi i veličina datoteka te datumi stvaranja.
+
+    Dok je profil instaliran, zapisivanje ćete moći uključiti i isključiti, a moći ćete i pregledati datoteke zapisnika na računalu prije njihova slanja Appleu. Da biste isključili zapisivanje, otvorite Postavke, dodirnite "Općenito" pa "Profili", "Disk Space Diagnostic Logging Profile", a zatim "Ukloni".
+
+    Kad omogućite ovaj dijagnostički alat i slanje kopije generiranih datoteka Appleu, pristajete na to da Apple koristi njihov sadržaj u skladu sa svojim pravilima o zaštiti privatnosti (http://www.apple.com/legal/privacy/hr/).</string>
+		<key>hu</key>
+		<string>A Lemezterület diagnosztikai naplózási profil által generált fájlok segítségével az Apple el tudja végezni készülékének hibaelhárítását, és a profil révén az Apple tökéletesíteni tudja a fájlrendszereket és a kapcsolódó termékeket és szolgáltatásokat. A generált fájlok tartalmazhatják személyes adatait, például a fájlok metaadatait, a fájlok nevét, méretét és létrehozásuk dátumát.
+
+    Amíg a profil a készülékre van telepítve, bármikor be- és kikapcsolhatja a naplózást, és megtekintheti a számítógépén található naplófájlokat az Apple-nek való elküldésük előtt. A naplózás kikapcsolásához nyissa meg a Beállítások menüt, és koppintson az „Általános”, „Profilok”, „Lemezterület diagnosztikai naplózási profil” menüpontra, majd az „Eltávolítás” elemre.
+
+    A diagnosztikai eszköz használatának engedélyezésével és a generált fájlok Apple-nek való elküldésével Ön beleegyezik, hogy az Apple az adatvédelmi szabályzata (http://www.apple.com/legal/privacy/hu) szerint felhasználja a fájlokat.</string>
+		<key>id</key>
+		<string>Profil Pencatatan Diagnostik Ruang Disk menghasilkan file yang memungkinkan Apple menyelesaikan masalah perangkat Anda dan membantu Apple meningkatkan sistem file dan produk serta layanan terkait. File yang dihasilkan dapat berisi beberapa informasi pribadi Anda, termasuk metadata file, seperti nama, ukuran, dan tanggal pembuatan file.
+
+    Anda akan dapat menghidupkan dan mematikan pencatatan kapan saja saat Profil diinstal, dan akan dapat meninjau file log di komputer Anda sebelum mengirimkan file tersebut ke Apple.  Untuk mematikan pencatatan, buka Pengaturan, ketuk "Umum", ketuk "Profil", ketuk "Profil Pencatatan Diagnostik Ruang Disk", dan ketuk "Hapus".
+
+    Dengan mengaktifkan alat diagnostik ini dan mengirimkan salinan file yang dihasilkan ke Apple, Anda menyetujui penggunaan Apple atas konten file tersebut sesuai dengan kebijakan privasinya (http://www.apple.com/legal/privacy/id).</string>
+		<key>it-IT</key>
+		<string>Il profilo Registrazione diagnostica spazio su disco genera file che consentono a Apple di risolvere i problemi relativi al tuo dispositivo e migliorare i file system e i relativi prodotti e i servizi. I file generati possono contenere alcune delle tue informazioni personali, compresi i meta dati dei file, come ad esempio i nomi, le dimensioni e le date di creazione dei file.
+
+    Mentre il profilo è installato, puoi attivare e disattivare la registrazione in qualsiasi momento e puoi esaminare i resoconti sul tuo computer prima di inviarli a Apple.  Per disattivare la registrazione, apri Impostazioni, tocca "Generali", "Profili", quindi "Profilo Registrazione diagnostica spazio su disco" e "Rimuovi".
+
+    Abilitando questo strumento di diagnostica e inviando una copia dei file generati a Apple, acconsenti che Apple utilizzi il contenuto di tali file in conformità con la sua politica sulla privacy (http://www.apple.com/it/legal/privacy).</string>
+		<key>ja</key>
+		<string>ディスク容量診断ログプロファイルを使用すると、ファイルが生成されます。Apple はこのファイルをもとに、お客様のデバイスに関する問題のトラブルシューティングを行って、ファイルシステムおよび関連製品とサービスを改善するために活用します。生成されるファイルには、ファイルのメタデータ (ファイルの名前、サイズ、作成日など) を含む、お客様の個人情報が含まれる場合があります。
+
+    プロファイルがインストールされている間、お客様はいつでもログ記録を有効または無効にすることができ、Apple に送信する前にコンピュータのログファイルの詳細を確認できます。ログ記録を無効にするには、「設定」を開き、「一般」&gt;「プロファイル」&gt;「ディスク容量診断ログプロファイル」&gt;「削除」の順にタップします。
+
+    この診断ツールを有効にし、生成されたファイルのコピーを Apple に送信することにより、お客様は Apple がプライバシーポリシー (http://www.apple.com/jp/legal/privacy) にそって上記のファイルの内容を利用することに同意されたものとみなされます。</string>
+		<key>ko</key>
+		<string>디스크 공간 진단 로깅 프로파일은 Apple이 사용자의 장비에서 발생한 문제를 해결하고 파일 시스템과 관련 제품 및 서비스를 개선하는 데 유용한 파일을 생성합니다. 생성된 파일에는 파일 이름, 크기 및 생성일과 같은 파일 메타데이터를 비롯하여 일부 개인 정보가 포함될 수 있습니다.
+
+    프로파일이 설치되어 있는 동안 언제든지 로깅을 켜고 끌 수 있으며 로그 파일을 Apple에 보내기 전에 컴퓨터에서 검토할 수 있습니다. 로깅을 끄려면 '설정'을 열고 '일반', '프로파일', '디스크 공간 진단 로깅 프로파일' 및 '제거'를 차례대로 탭하십시오.
+
+    이 진단 도구를 활성화하고 생성된 파일의 복사본을 Apple로 보내면 Apple이 개인정보 취급방침(http://www.apple.com/legal/privacy/kr/)에 따라 해당 파일의 콘텐츠를 사용하는 것에 동의하는 것입니다.</string>
+		<key>nl</key>
+		<string>Het profiel ‘Diagnostische informatie over schijfruimte bijhouden’ genereert bestanden waarmee Apple problemen met uw apparaat kan oplossen en waarmee Apple bestandssystemen en gerelateerde producten en services kan verbeteren. De gegenereerde bestanden bevatten mogelijk uw persoonlijke informatie, inclusief uw bestandsmetagegevens, zoals bestandsnamen, -grootten en aanmaakdatums.
+
+    U kunt het bijhouden van een logbestand altijd in- of uitschakelen als het Profiel is geïnstalleerd en u kunt de logbestanden bekijken op uw computer voordat deze naar Apple worden verzonden.  Als u het bijhouden van logbestanden wilt uitschakelen, opent u Instellingen en tikt u op ‘Algemeen’, ‘Profielen’, ‘Diagnostische informatie over schijfruimte bijhouden’ en vervolgens op ‘Verwijder’.
+
+    Als u dit diagnostische hulpprogramma inschakelt en een kopie van de gegenereerde bestanden naar Apple verzendt, gaat u ermee akkoord dat Apple de inhoud van dergelijke bestanden gebruikt in overeenstemming met het privacybeleid (http://www.apple.com/nl/legal/privacy).</string>
+		<key>no</key>
+		<string>Profilen for logging av Diskplass-diagnostikk oppretter filer som Apple bruker til å løse problemer med enheten din, og til å forbedre filsystemer og tilknyttede produkter og tjenester. Filene som opprettes, kan inneholde visse personopplysninger, blant annet metadata om filer, som filnavn, filstørrelser og dato for opprettelse.
+
+    Du kan når som helst slå logging på og av når profilen er installert, og du kan gjennomgå loggfilene på datamaskinen før du sender dem til Apple. Hvis du vil slå av logging, åpner du Innstillinger og trykker på Generelt, Profiler, Profil for logging av Diskplass-diagnostikk og Fjern.
+
+    Ved å aktivere diagnostikkverktøyet og sende Apple en kopi av filene som opprettes, samtykker du i at Apple kan bruke innholdet i slike filer i henhold til Apples retningslinjer for personvern (http://www.apple.com/legal/privacy/no).</string>
+		<key>pl</key>
+		<string>Profil Disk Space Diagnostic Logging generuje pliki, które umożliwiają firmie Apple rozwiązywanie problemów z Twoim urządzeniem i pomagają jej w ulepszaniu systemów plików oraz powiązanych produktów i usług. Wygenerowane pliki mogą zawierać niektóre z Twoich danych osobowych, w tym metadane plików, takie jak nazwa i rozmiar pliku oraz data utworzenia.
+
+    Po zainstalowaniu profilu możesz w dowolnej chwili włączać i wyłączać rejestrowanie, a także przeglądać pliki dziennika na komputerze przed wysłaniem ich do firmy Apple. Aby wyłączyć rejestrowanie, otwórz Ustawienia, stuknij opcję Ogólne, stuknij opcję Profile, stuknij opcję Disk Space Diagnostic Logging Profile, a następnie stuknij opcję Usuń.
+
+    Włączając to narzędzie diagnostyczne i wysyłając kopię wygenerowanych plików do firmy Apple, zgadzasz się na wykorzystanie zawartości tych plików przez firmę Apple zgodnie z przyjętymi przez nią zasadami ochrony prywatności (http://www.apple.com/pl/legal/privacy).</string>
+		<key>pt-BR</key>
+		<string>O perfil de Registro de Diagnóstico do Espaço em Disco gera arquivos que permitem que a Apple solucione problemas com o seu dispositivo e que a ajudam a melhorar os sistemas de arquivos e os produtos e serviços relacionados. Os arquivos gerados podem conter informações pessoais, incluindo metadados de seus arquivos, como nomes, tamanhos e datas de criação.
+
+    É possível ativar e desativar os registros a qualquer momento enquanto o perfil estiver instalado, bem como visualizar os arquivos de registro em seu computador antes de enviá-los para a Apple.  Para desativar os registros, abra Ajustes e toque em "Geral", "Perfis", "Perfil de Registro de Diagnóstico do Espaço em Disco" e "Remover".
+
+    Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos arquivos gerados para a Apple, você autoriza a Apple a usar o conteúdo desses arquivos de acordo com sua política de privacidade (http://www.apple.com/br/legal/privacy).</string>
+		<key>pt-PT</key>
+		<string>O Perfil de registo de diagnóstico do espaço no disco gera ficheiros que permitem à Apple avançar com a resolução de problemas com o seu dispositivo e ajudar a Apple a melhorar os sistemas de ficheiros e os produtos e serviços relacionados. Os ficheiros gerados podem conter algumas das suas informações pessoais, incluindo os metadados dos seus ficheiros, tais como o nome, o tamanho e as datas de criação dos ficheiros.
+
+    É possível ligar e desligar este registo a qualquer altura enquanto o Perfil estiver instalado e rever os ficheiros de registo no seu computador antes de os enviar para a Apple.  Para desligar o registo, aceda a Definições &gt; Geral &gt; Perfis, toque em Perfil de Registo de Diagnóstico do Espaço no Disco e, por fim, em Remover.
+
+    Ao ativar a ferramenta de diagnóstico e ao enviar uma cópia dos ficheiros gerados para a Apple, está a consentir que a Apple utilize o conteúdo dos ficheiros, de acordo com a Política de privacidade (http://www.apple.com/legal/privacy/pt/).</string>
+		<key>ro</key>
+		<string>Profilul de înregistrare în jurnal a diagnosticării spațiului pe disc generează fișiere care permit Apple să depaneze problemele legate de dispozitivul tău și care ajută Apple să-și îmbunătățească sistemele de fișiere, precum și produsele și serviciile aferente. Fișierele generate pot conține o parte din informațiile tale personale, inclusiv metadatele fișierelor, cum ar fi numele, dimensiunile și datele de creare a fișierelor.
+
+    Poți activa și dezactiva înregistrarea în jurnal în orice moment cât timp este instalat Profilul și vei putea vedea fișierele jurnal pe computer înainte de a le trimite către Apple.  Pentru a dezactiva înregistrarea în jurnal, deschide Configurări, atinge „General”, atinge „Profiluri”, atinge „Profil înregistrare în jurnal diagnosticare spațiu pe disc” și atinge „Eliminați”.
+
+    Prin activarea acestui instrument de diagnosticare și trimiterea unei copii a fișierelor generate către Apple, îți exprimi acordul cu utilizarea de către Apple a conținutului acestor fișiere în conformitate cu politica de confidențialitate a acesteia (http://www.apple.com/legal/privacy/ro/).</string>
+		<key>ru</key>
+		<string>Профиль журнала диагностики места на диске генерирует файлы, которые позволяют специалистам Apple находить и устранять неполадки устройства, а также помогают Apple улучшать файловые системы и связанные продукты и услуги. Генерируемые файлы могут содержать некоторые персональные данные, включая метаданные файлов, такие как имена, размеры и даты создания файлов.
+
+    Когда установлен профиль, ведение журнала можно в любой момент включить или выключить. Кроме того, перед отправкой в Apple файлы журнала можно просмотреть на компьютере. Чтобы отключить ведение журнала, выберите «Настройки» &gt; «Основные» &gt; «Профили» &gt; «Профиль журнала диагностики места на диске», затем нажмите «Удалить».
+
+    Включая этот инструмент диагностики и отправляя копию созданных файлов в Apple, вы соглашаетесь с тем, что Apple будет использовать содержимое этих файлов в соответствии со своей политикой конфиденциальности (http://www.apple.com/legal/privacy/ru).</string>
+		<key>sk</key>
+		<string>Profil Disk Space Diagnostic Logging Profile (Profil protokolovania diagnostiky miesta na disku) vytvára súbory, ktoré spoločnosti Apple umožňujú riešiť problémy s vaším zariadením a pomáhajú jej vylepšovať systémy súborov a súvisiace produkty a služby. Vytvorené súbory môžu obsahovať vaše osobné informácie vrátane metadát vašich súborov, ako sú napríklad názvy, veľkosti a dátumy vytvorenia súborov.
+
+    Keď je nainštalovaný tento profil, môžete protokolovanie kedykoľvek zapnúť a vypnúť a protokolové súbory uložené v počítači si pred ich odoslaním spoločnosti Apple budete môcť prezrieť. Ak chcete protokolovanie vypnúť, otvorte ponuku Nastavenia a postupne klepnite na položky Všeobecné, Profily, Disk Space Diagnostic Logging Profile (Profil protokolovania diagnostiky miesta na disku) a Odstrániť.
+
+    Zapnutím tohto diagnostického nástroja a odoslaním kópie vytvorených súborov spoločnosti Apple vyjadrujete svoj súhlas s používaním obsahu takýchto súborov spoločnosťou Apple v súlade s jej zásadami ochrany osobných údajov (http://www.apple.com/legal/privacy/sk/).</string>
+		<key>sv</key>
+		<string>Profilen Diskutrymmesdiagnostik genererar filer som hjälper Apple att felsöka problem med din enhet och förbättra filsystem och relaterade produkter och tjänster. De genererade filerna kan innehålla viss personlig information, bland annat metadata om filer som filnamn, storlekar och skapandedatum.
+
+    Du kan slå på och av loggning när som helst när profilen är installerad och du kan granska loggfilerna på din dator innan du skickar dem till Apple.  Om du vill slå av loggningen öppnar du Inställningar och trycker på Allmänt, Profiler, Diskutrymmesdiagnostikloggning och sedan på Ta bort.
+
+    Genom att aktivera detta diagnostikverktyg och skicka en kopia av de genererade filerna till Apple accepterar du att Apple använder innehållet i dessa filer i enlighet med sin integritetspolicy (http://www.apple.com/legal/privacy/se).</string>
+		<key>th</key>
+		<string>โปรไฟล์ Disk Space Diagnostic Logging สร้างไฟล์ซึ่งช่วย Apple ในการแก้ไขปัญหาที่เกิดขึ้นกับอุปกรณ์ของคุณ และช่วย Apple ในการปรับปรุงระบบไฟล์และผลิตภัณฑ์และบริการที่เกี่ยวข้องให้ดียิ่งขึ้น ไฟล์ที่สร้างขึ้นอาจประกอบด้วยข้อมูลส่วนบุคคลบางส่วนของคุณ รวมถึงเมตาดาต้าไฟล์ของคุณ เช่น ชื่อไฟล์ ขนาด และวันที่สร้าง
+
+    คุณจะสามารถเปิดหรือปิดบันทึกข้อมูลได้ทุกเมื่อในระหว่างติดตั้งโปรไฟล์ และจะสามารถตรวจทานไฟล์บันทึกข้อมูลบนคอมพิวเตอร์ของคุณก่อนส่งให้แก่ Apple  หากต้องการปิดบันทึกข้อมูล ให้เปิด การตั้งค่า แตะที่ "ทั่วไป" แตะที่ "โปรไฟล์" แตะที่ "โปรไฟล์ Disk Space Diagnostic Logging" และแตะที่ "ลบออก"
+
+    ในการเปิดใช้งานเครื่องมือการวินิจฉัยนี้และการส่งสำเนาไฟล์ที่สร้างขึ้นให้แก่ Apple ถือว่าคุณยินยอมให้ Apple ใช้เนื้อหาของไฟล์ดังกล่าวตามนโยบายความเป็นส่วนตัว (http://www.apple.com/legal/privacy/th)</string>
+		<key>tr</key>
+		<string>Disk Alanı Tanısı Günlük Profili, Apple'ın aygıtınızla ilgili sorunları gidermesini sağlayan ve Apple'ın dosya sistemleri ve ilgili ürün ile hizmetleri geliştirmesine yardımcı olan dosyalar oluşturur. Oluşturulan dosyalar dosya adları, boyutları ve oluşturulma tarihleri gibi dosya meta verileriniz dahil bazı kişisel bilgilerinizi içerebilir.
+
+    Profil yüklü olduğunda, günlük tutmayı istediğiniz zaman açıp kapatabilir ve bilgisayarınızdaki günlük dosyalarını Apple'a göndermeden önce gözden geçirebilirsiniz.  Günlük tutmayı kapatmak için, Ayarlar'ı açın ve ardından "Genel", "Profiller", "Disk Alanı Tanısı Günlüğü Profili" ve "Kaldır"a dokunun.
+
+    Bu tanılama aracını etkinleştirerek ve oluşturulan dosyaların bir kopyasını Apple'a göndererek Apple'ın bu dosyaların içeriğini gizlilik politikasına (http://www.apple.com/legal/privacy/tr/) uygun şekilde kullanacağını kabul edersiniz.</string>
+		<key>zh-Hans</key>
+		<string>&gt;磁盘空间诊断记录描述文件生成的文件可让 Apple 对您的设备出现的问题进行故障诊断，并可帮助 Apple 改善文件系统和相关产品与服务。生成的文件可能包含您的一些个人信息，其中包括您的文件元数据，例如文件名称、大小和创建日期。
+
+    您能在安装此描述文件的过程中随时打开和关闭记录功能，并且在将日志文件发送给 Apple 之前，您能在电脑上查看这些日志文件。要关闭记录功能，请打开“设置”，然后依次轻按“通用”、“描述文件”、“磁盘空间诊断记录描述文件”和“移除”。
+
+    启用此诊断工具并向 Apple 发送所生成文件的副本，即表示您同意 Apple 遵循其隐私政策 (http://www.apple.com/legal/privacy/szh/) 使用此类文件的内容。</string>
+		<key>zh-Hant</key>
+		<string>Disk Space Diagnostic Logging Profile 產生的檔案可讓 Apple 進行裝置問題故障診斷，並協助 Apple 改進檔案系統及其產品和服務。所產生的檔案可能包含您的部分個人資訊，包括您的檔案元資料，如檔案名稱、大小和建立日期。
+
+    安裝此描述檔後，您可以隨時開啟和關閉記錄，而且在傳送記錄檔到 Apple 之前，也可以在電腦上先檢閱記錄檔。若要關閉記錄，請開啟「設定」，點一下「一般」，然後點一下「描述檔」，再點一下 Disk Space Diagnostic Logging Profile，接著點一下「移除」。
+
+    根據 Apple 的隱私權政策（http://www.apple.com/tw/legal/privacy），啟用此檢測工具並傳送所產生檔案的拷貝給 Apple，代表您同意 Apple 使用這類檔案的內容。</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>FilesystemMetadataSnapshotEnabled</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.Preferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>B10534B6-6A22-46D3-BBF6-B6A10010F405</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables disk space diagnostic logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>Disk Space Diagnostics Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.FilesystemMetadataSnapshot</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD1627EA-3D70-45A7-980C-C1D36CDB8C26</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-05-04T07:00:00Z</date>
+</dict>
+</plist>

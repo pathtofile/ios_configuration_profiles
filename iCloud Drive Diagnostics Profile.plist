@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>cs</key>
+		<string>Profil protokolování ladění iCloud Drivu generuje soubory, které společnosti Apple umožňují řešit problémy s vaším zařízením a pomáhají jí zlepšovat své produkty a služby. Vytvořené soubory mohou obsahovat některé vaše osobní údaje včetně úplných cest k vašim uloženým dokumentům, vašeho uživatelského jména pro iCloud, názvu vašeho počítače a názvů dalších počítačů registrovaných ve vašem účtu iCloudu.
+Protokolování budete moci kdykoli vypnout tím, že otevřete Nastavení a postupně klepnete na Obecné, Profily, Profil diagnostiky iCloud Drivu a Odstranit profil. Také budete moci procházet protokolové soubory na svém počítači před jejich odesláním společnosti Apple.
+
+Zapnutím tohoto diagnostického nástroje a zasláním kopie vytvořených souborů společnosti Apple vyjadřujete svůj souhlas s tím, že Apple bude obsah těchto souborů používat v souladu se svými zásadami ochrany osobních údajů (http://www.apple.com/legal/privacy/cz).</string>
+		<key>da</key>
+		<string>Profilen til logning af fejlfinding af iCloud Drive opretter filer, der giver Apple mulighed for at foretage fejlfinding af problemer med din enhed, og hjælper dermed Apple med at forbedre sine produkter og tjenester. De oprettede filer kan indeholde nogle af dine personlige oplysninger, herunder hele stinavne til dine opbevarede dokumenter, dit iCloud-brugernavn, dit computernavn og navnene på andre computere, der er registreret med din iCloud-konto.
+Du kan når som helst slå logning fra ved at åbne Indstillinger, trykke på "Generelt", trykke på "Profiler", trykke på profilen til logning af fejlfinding af iCloud Drive og derefter trykke på "Slet profil". Du kan også gennemse logfilerne på din computer, før du sender dem til Apple.
+
+Ved at aktivere dette diagnosticeringsværktøj og sende en kopi af de oprettede filer til Apple accepterer du, at Apple bruger indholdet af nævnte filer i henhold til politikken for beskyttelse af personlige oplysninger (http://www.apple.com/legal/privacy/dk).</string>
+		<key>de</key>
+		<string>Das Profil "iCloud Drive Debug Logging" (iCloud Drive-Debug-Protokollierung) generiert Dateien, mit denen Apple Probleme mit Ihrem Gerät beheben und Apple-Produkte und -Services weiter verbessern kann. Die generierten Dateien können einige personenbezogene Daten enthalten, wie den vollständigen Verzeichnisnamen Ihrer gespeicherten Dokumente, Ihren iCloud-Benutzernamen, den Computernamen und die unter Ihrem iCloud Account registrierten Computer.
+Sie können die Protokollierung jederzeit ausschalten, indem Sie die Einstellungen öffnen, auf "Allgemein", "Profile", "iCloud Drive Diagnostics Profile" (iCloud Drive-Diagnose) und anschließend auf "Profil löschen" tippen. Außerdem können Sie die Protokolldateien auf Ihrem Computer anzeigen, bevor Sie sie an Apple senden.
+
+Indem Sie dieses Diagnosetool aktivieren und eine Kopie der generierten Dateien an Apple senden, erklären Sie sich damit einverstanden, dass Apple den Inhalt dieser Dateien entsprechend seiner Datenschutzrichtlinie verwenden darf (http://www.apple.com/de/legal/privacy).</string>
+		<key>el</key>
+		<string>Το προφίλ "iCloud Drive Debug Logging" δημιουργεί αρχεία που επιτρέπουν στην Apple να αντιμετωπίσει προβλήματα με τη συσκευή σας και τη βοηθούν να βελτιώσει τα προϊόντα και τις υπηρεσίες της. Τα αρχεία που δημιουργούνται ενδέχεται να περιέχουν ορισμένες προσωπικές πληροφορίες σας, όπως τα πλήρη ονόματα διαδρομών των αποθηκευμένων εγγράφων σας, το όνομα χρήστη iCloud σας, το όνομα του υπολογιστή και τα ονόματα άλλων υπολογιστών που έχουν καταχωρηθεί στο λογαριασμό σας iCloud.
+Μπορείτε να απενεργοποιήσετε την καταγραφή ανά πάσα στιγμή, ανοίγοντας τις Ρυθμίσεις και επιλέγοντας με τη σειρά: Γενικά, Προφίλ, iCloud Drive Diagnostics Profile και Διαγραφή προφίλ. Μπορείτε επίσης να ελέγξετε τα αρχεία καταγραφής στον υπολογιστή σας πριν την αποστολή τους στην Apple.
+
+Με την ενεργοποίηση αυτού του εργαλείου διαγνωστικού ελέγχου και την αποστολή ενός αντίγραφου των αρχείων που δημιουργήθηκαν στην Apple, συμφωνείτε ότι η Apple μπορεί να χρησιμοποιεί το περιεχόμενο αυτών των αρχείων σύμφωνα με την πολιτική απορρήτου της (http://www.apple.com/legal/privacy/gr/).</string>
+		<key>en</key>
+		<string>The iCloud Drive Debug Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its related products and services. The generated files may contain some of your personal information, including full path names of your stored documents, full path names of your files accessed and Spotlight search results, your iCloud username, computer name, and the names of other computers registered with your iCloud account.
+
+You will be able to turn logging off at any time by opening Settings, tapping “General,” then “Profiles,” then “iCloud Drive Diagnostics Profile,” and finally “Delete Profile.” You will also be able to review the log files on your computer prior to sending them to Apple. This profile will expire after 14 days.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+		<key>es</key>
+		<string>El perfil iCloud Drive Debug Logging genera una serie de archivos que permiten a Apple solucionar los problemas de tu dispositivo y mejorar sus productos y servicios. Los archivos generados pueden incluir datos personales, como las rutas completas de tus documentos guardados, tu nombre de usuario de iCloud, el nombre de tu ordenador y los nombres de los ordenadores registrados en tu cuenta de iCloud.
+Tienes la opción de desactivar el registro en cualquier momento. Para ello, abre Ajustes y toca General y Perfiles. A continuación, toca el perfil iCloud Drive Diagnostics y, por último, Eliminar. También podrás revisar los archivos de registro en el ordenador antes de enviarlos a Apple.
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos de conformidad con su política de privacidad (http://www.apple.com/es/legal/privacy).</string>
+		<key>es-MX</key>
+		<string>El perfil de registro de depuración de iCloud Drive genera archivos que le permiten a Apple resolver problemas con tu dispositivo y ayudan a mejorar sus productos y servicios. Los archivos generados pueden contener algo de tu información personal, incluidos los nombres completos de las rutas de acceso de los documentos almacenados, el nombre de usuario de iCloud, el nombre de la computadora y los nombres de otras computadoras registradas con tu cuenta de iCloud.
+Podrás cerrar sesión en cualquier momento al abrir Ajustes, tocar General, Perfiles, Perfil de diagnóstico de iCloud Drive y finalmente Eliminar perfil. También podrás revisar los archivos de registro en tu computadora antes de enviarlos a Apple.
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, estás aceptando que Apple utilice el contenido de dichos archivos según su política de privacidad (http://www.apple.com/legal/privacy).</string>
+		<key>fi</key>
+		<string>iCloud Driven vianmäärityskirjaamisprofiili luo tiedostoja, joiden avulla Apple voi määrittää laitteessasi olevia vikoja ja kehittää tuotteitaan ja palvelujaan. Luodut tiedostot voivat sisältää henkilökohtaisia tietojasi, kuten tallennettujen tiedostojen polut kokonaisuudessaan, iCloud-käyttäjätunnuksesi, tietokoneen nimen ja iCloud-tiliisi rekisteröityjen muiden tietokoneiden nimet.
+Voit poistaa kirjaamisen käytöstä milloin vain valitsemalla Asetukset, Yleiset, Profiilit, iCloud Driven diagnostiikkaprofiili ja lopuksi Poista profiili. Voit myös tarkastella lokitiedostoja tietokoneella ennen kuin lähetät ne Applelle.
+
+Jos otat diagnostiikkatyökalun käyttöön ja lähetät luoduista tiedostoista kopion Applelle, annat Applelle luvan käyttää näiden tiedostojen sisältöä tietosuojakäytäntönsä mukaisesti (http://www.apple.com/fi/legal/privacy).</string>
+		<key>fr</key>
+		<string>Le profil Journalisation de débogage d’iCloud Drive génère des fichiers qui permettent à Apple de résoudre des problèmes liés à votre appareil et aident Apple à améliorer ses produits et services. Les fichiers générés peuvent contenir des informations personnelles vous concernant, telles que les noms de chemin d’accès de vos documents stockés, votre nom d’utilisateur iCloud, le nom de votre ordinateur et les noms des autres ordinateurs sur lesquels votre compte iCloud est enregistré.
+Vous pourrez désactiver la journalisation à tout moment en ouvrant Réglages, en appuyant sur « Général », « Profils », « Profil Diagnostics d’iCloud Drive », puis sur « Supprimer le profil ». Vous pourrez consulter les fichiers journaux sur votre ordinateur avant de les envoyer à Apple.
+
+En activant cet outil de diagnostic et en envoyant une copie des fichiers générés à Apple, vous acceptez qu’Apple utilise le contenu de ces fichiers conformément à son engagement de confidentialité (http://www.apple.com/fr/legal/privacy).</string>
+		<key>hr</key>
+		<string>Profil iCloud Drive Debug Logging generira datoteke koje Appleu omogućuju otklanjanje poteškoća s uređajem i pridonose poboljšanju Appleovih proizvoda i servisa. Generirane datoteke mogu sadržavati određene osobne podatke, uključujući pune nazive staza spremljenih dokumenata, korisničko ime za iCloud, naziv računala i nazive drugih računala registriranih za iCloud račun.
+Zapisivanje možete u bilo koje vrijeme isključiti tako da otvorite Postavke, dodirnete "Općenito", zatim "Profili" pa "iCloud Drive Diagnostics Profile" i na kraju "Obriši profil". Datoteke zapisnika moći ćete i pregledati na računalu prije njihova slanja Appleu.
+
+Kad omogućite ovaj dijagnostički alat i slanje kopije generiranih datoteka Appleu, pristajete na to da Apple koristi njihov sadržaj u skladu sa svojim pravilima o zaštiti privatnosti (http://www.apple.com/legal/privacy/hr/).</string>
+		<key>hu</key>
+		<string>Az iCloud Drive hibanaplózási profil által generált fájlok segítségével az Apple el tudja végezni készülékének hibaelhárítását, és a profil révén az Apple tökéletesíteni tudja termékeit és szolgáltatásait. A generált fájlok tartalmazhatják személyes adatait, például a tárolt dokumentumok teljes elérési útvonalát, az Ön iCloud-felhasználónevét, a számítógép nevét, valamint az iCloud-fiókjában regisztrált többi számítógép nevét.
+A naplózást bármikor kikapcsolhatja úgy, hogy megnyitja a Beállítások menüt, és az „Általános”, a „Profilok” és az „iCloud Drive diagnosztikai profil” menüpontra, majd a „Profil eltávolítása” elemre koppint. A naplófájlokat továbbá megtekintheti számítógépén az Apple-nek való elküldésük előtt.
+
+A diagnosztikai eszköz használatának engedélyezésével és a generált fájlok Apple-nek való elküldésével Ön beleegyezik, hogy az Apple az adatvédelmi szabályzata (http://www.apple.com/legal/privacy/hu) szerint felhasználja a fájlokat.</string>
+		<key>id</key>
+		<string>Profil Pencatatan Debug iCloud Drive menghasilkan file yang memungkinkan Apple menyelesaikan masalah perangkat Anda dan membantu Apple meningkatkan produk dan layanannya. File yang dihasilkan dapat berisi beberapa informasi pribadi, termasuk nama jalur lengkap dari dokumen yang disimpan, nama pengguna iCloud Anda, nama komputer, dan nama komputer lainnya yang didaftarkan dengan akun iCloud Anda.
+Anda akan dapat mematikan pencatatan kapan saja dengan membuka Pengaturan, mengetuk "Umum", lalu "Profil", kemudian "Profil Diagnostik iCloud Drive", dan terakhir "Hapus Profil". Anda juga dapat meninjau file log pada komputer sebelum mengirimkannya ke Apple.
+
+Dengan mengaktifkan alat diagnostik ini dan mengirimkan salinan file yang dihasilkan ke Apple, Anda menyetujui penggunaan Apple atas konten file tersebut sesuai dengan kebijakan privasinya (http://www.apple.com/legal/privacy/id).</string>
+		<key>it</key>
+		<string>Il profilo Registrazione debug iCloud Drive genera file che consentono a Apple di risolvere i problemi relativi al tuo dispositivo e migliorare i propri prodotti e servizi. I file generati possono contenere alcune delle tue informazioni personali, compresi i nomi completi dei percorsi dei tuoi documenti archiviati, il tuo nome utente iCloud, il nome del computer e i nomi degli altri computer registrati con il tuo account iCloud.
+Puoi disattivare la registrazione in qualsiasi momento aprendo Impostazioni, toccando "Generali", "Profili", quindi "Profilo Registrazione debug iCloud Drive" e infine "Elimina profilo". Puoi anche esaminare il resoconto sul tuo computer prima di inviarlo a Apple.
+
+Abilitando questo strumento di diagnostica e inviando una copia dei file generati a Apple, acconsenti che Apple utilizzi il contenuto di tali file in conformità con la sua politica sulla privacy (http://www.apple.com/it/legal/privacy).</string>
+		<key>ja</key>
+		<string>iCloud Drive デバッグログプロファイルを使用すると、ファイルが生成されます。Apple はこのファイルをもとに、お客様のデバイスに関する問題のトラブルシューティングを行って、製品やサービス改善のために活用します。生成されるファイルには、保存されている書類のフルパス名、お客様の iCloud ユーザ名、コンピュータ名、お客様の iCloud アカウントに登録されたその他のコンピュータ名など、お客様の個人情報が含まれる場合があります。
+お客様はいつでもログ記録を無効にすることができます。無効にするには「設定」を開き、「一般」&gt;「プロファイル」&gt;「iCloud Drive 診断プロファイル」の順にタップし、最後に「プロファイルを削除」をタップします。また、Apple に送信する前にコンピュータのログファイルの詳細を確認できます。
+
+この診断ツールを有効にし、生成されたファイルのコピーを Apple に送信することにより、お客様は Apple がプライバシーポリシー (http://www.apple.com/jp/legal/privacy) にそって上記のファイルの内容を利用することに同意されたものとみなされます。</string>
+		<key>ko</key>
+		<string>iCloud Drive 디버그 로깅 프로파일은 Apple이 사용자의 장비에서 발생한 문제를 해결하고 Apple의 제품 및 서비스를 개선하는 데 유용한 파일을 생성합니다. 생성된 파일에는 저장된 문서의 전체 경로 이름, iCloud 사용자 이름, 컴퓨터 이름 및 iCloud 계정에 등록된 다른 컴퓨터의 이름을 비롯하여 일부 개인 정보가 포함될 수 있습니다.
+'설정'을 열고 '일반', '프로파일', 'iCloud Drive 진단 프로파일' 및 '프로파일 삭제'를 차례대로 탭하여 언제든지 로깅을 끌 수 있습니다. 또한 로그 파일을 Apple에 보내기 전에 컴퓨터에서 검토할 수도 있습니다.
+
+이 진단 도구를 활성화하고 생성된 파일의 복사본을 Apple로 보내면 Apple이 개인정보 취급방침(http://www.apple.com/legal/privacy/kr/)에 따라 해당 파일의 콘텐츠를 사용하는 것에 동의하는 것입니다.</string>
+		<key>nb</key>
+		<string>Profilen for logging av feilsøking i iCloud Drive oppretter filer som Apple bruker til å løse problemer med enheten din, og til å forbedre Apples produkter og tjenester. Filene som opprettes, kan inneholde visse personopplysninger, blant annet fullt banenavn for lagrede dokumenter, iCloud-brukernavnet ditt, datamaskinens navn og navnet på andre datamaskiner som er registrert på din iCloud-konto.
+Du kan når som helst slå av logging ved å åpne Innstillinger og trykke på Generelt, Profiler, Profil for diagnostikk av iCloud Drive og Slett profil. Du har også mulighet til å gjennomgå loggfilene på datamaskinen før du sender dem til Apple.
+
+Ved å aktivere diagnostikkverktøyet og sende Apple en kopi av filene som opprettes, samtykker du i at Apple kan bruke innholdet i slike filer i henhold til Apples retningslinjer for personvern (http://www.apple.com/legal/privacy/no).</string>
+		<key>nl</key>
+		<string>Het profiel ‘Foutopsporing in iCloud-schijf bijhouden’ genereert bestanden waarmee Apple problemen met uw apparaat kan oplossen en waarmee Apple zijn producten en services kan verbeteren. De gegenereerde bestanden bevatten mogelijk uw persoonlijke informatie, zoals volledige padnamen van uw opgeslagen documenten, uw iCloud-gebruikersnaam, computernaam en de namen van andere computers die zijn geregistreerd bij uw iCloud-account.
+U kunt het bijhouden van logbestanden op elk gewenst moment uitschakelen door Instellingen te openen, op ‘Algemeen’, ‘Profielen’, ‘Diagnostische informatie over iCloud-schijf’ en vervolgens op ‘Verwijder profiel’ te tikken. U kunt de logbestanden ook bekijken op uw computer voordat u ze naar Apple verzendt.
+
+Als u dit diagnostische hulpprogramma inschakelt en een kopie van de gegenereerde bestanden naar Apple verzendt, gaat u ermee akkoord dat Apple de inhoud van dergelijke bestanden gebruikt in overeenstemming met het privacybeleid (http://www.apple.com/nl/legal/privacy).</string>
+		<key>pl</key>
+		<string>Profil iCloud Drive Debug Logging generuje pliki, które umożliwiają firmie Apple rozwiązywanie problemów z Twoim urządzeniem i pomagają jej w ulepszaniu oferowanych przez nią produktów i usług. Wygenerowane pliki mogą zawierać niektóre z Twoich danych osobowych, w tym pełne nazwy ścieżek do zachowanych przez Ciebie dokumentów, Twoją nazwę użytkownika w usłudze iCloud, nazwę komputera i nazwy innych komputerów zarejestrowanych na Twoim koncie usługi iCloud.
+W każdej chwili możesz wyłączyć rejestrowanie, otwierając Ustawienia i stukając opcję Ogólne, następnie opcję Profile, potem opcję iCloud Drive Diagnostics Profile i na końcu opcję Usuń profil. Zawsze możesz też przejrzeć pliki dziennika na komputerze przed wysłaniem ich do firmy Apple.
+
+Włączając to narzędzie diagnostyczne i wysyłając kopię wygenerowanych plików do firmy Apple, zgadzasz się na wykorzystanie zawartości tych plików przez firmę Apple zgodnie z przyjętymi przez nią zasadami ochrony prywatności (http://www.apple.com/pl/legal/privacy).</string>
+		<key>pt</key>
+		<string>O Perfil de Diagnóstico do iCloud Drive gera ficheiros que permitem à Apple avançar com a resolução de problemas com o seu dispositivo e ajudam a Apple a melhorar os produtos e serviços. Os ficheiros gerados podem conter as suas informações pessoais, incluindo os nomes completos da localização dos seus documentos, o seu nome de utilizador do iCloud, o nome do computador e os nomes dos computadores registados na sua conta iCloud.
+Pode desligar o registo a qualquer altura, em Definições &gt; Geral &gt; Perfis, tocando em Perfil de Diagnóstico do iCloud Drive e, por fim, em Apagar Perfil. Também é possível rever os ficheiros de registo no seu computador antes de os enviar para a Apple.
+
+Ao ativar a ferramenta de diagnóstico e ao enviar uma cópia dos ficheiros gerados para a Apple, está a consentir que a Apple utilize o conteúdo dos ficheiros, de acordo com a Política de privacidade (http://www.apple.com/legal/privacy/pt/).</string>
+		<key>pt-BR</key>
+		<string>O perfil de Registro de Depuração do iCloud Drive gera arquivos que permitem que a Apple solucione problemas com o seu dispositivo e que a ajudam a melhorar seus produtos e serviços. Os arquivos gerados podem conter informações pessoais, incluindo os nomes completos dos caminhos de seus documentos armazenados, seu nome de usuário do iCloud, o nome do seu computador e os nomes dos outros computadores registrados em sua conta do iCloud.
+Você poderá desativar os registros a qualquer momento abrindo os Ajustes e tocando em "Geral", "Perfis", "Perfil de Diagnóstico do iCloud Drive" e "Apagar Perfil". Você também poderá visualizar os arquivos de registro no seu computador antes de enviá-los para a Apple.
+
+Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos arquivos gerados para a Apple, você autoriza a Apple a usar o conteúdo desses arquivos de acordo com sua política de privacidade (http://www.apple.com/br/legal/privacy).</string>
+		<key>ro</key>
+		<string>Profilul de înregistrare în jurnal a depanării iCloud Drive generează fișiere care permit Apple să depaneze problemele legate de dispozitivul tău și care ajută Apple să-și îmbunătățească produsele și serviciile. Fișierele generate pot conține o parte din informațiile tale personale, inclusiv numele complete ale căilor către documentele stocate, numele de utilizator iCloud, numele computerului și numele computerelor înregistrate în contul iCloud.
+Poți să dezactivezi înregistrarea în jurnal în orice moment, deschizând Configurări, atingând „General”, apoi „Profiluri”, apoi „Profil diagnosticare iCloud Drive” și în final „Ștergere profil”. De asemenea, vei putea vedea fișierele jurnal pe computer înainte de a le trimite către Apple.
+
+Prin activarea acestui instrument de diagnosticare și trimiterea unei copii a fișierelor generate către Apple, îți exprimi acordul cu utilizarea de către Apple a conținutului acestor fișiere în conformitate cu politica de confidențialitate a acesteia (http://www.apple.com/legal/privacy/ro/).</string>
+		<key>ru</key>
+		<string>Профиль журнала отладки iCloud Drive генерирует файлы, которые позволяют специалистам Apple находить и устранять неполадки устройства, а также помогают Apple улучшать продукты и услуги. Генерируемые файлы могут содержать некоторые персональные данные, включая полный путь к сохраненным документам, ваше имя пользователя iCloud, имя компьютера, а также имена других компьютеров, зарегистрированных в учетной записи iCloud.
+Чтобы отключить ведение журнала, выберите «Настройки» &gt; «Основные» &gt; «Профили» &gt; «Профиль диагностики iCloud Drive», затем нажмите «Удалить профиль». Кроме того, перед отправкой в Apple файлы журнала можно просмотреть на компьютере.
+
+Включая этот инструмент диагностики и отправляя копию созданных файлов в Apple, вы соглашаетесь с тем, что Apple будет использовать содержимое этих файлов в соответствии со своей политикой конфиденциальности (http://www.apple.com/legal/privacy/ru).</string>
+		<key>sk</key>
+		<string>Profil iCloud Drive Debug Logging Profile (Profil protokolovania ladenia služby iCloud Drive) vytvára súbory, ktoré spoločnosti Apple umožňujú riešiť problémy s vaším zariadením a pomáhajú jej vylepšovať svoje produkty a služby. Vytvorené súbory môžu obsahovať vaše osobné informácie vrátane úplných názvov ciest vašich uložených dokumentov, vášho používateľského mena služby iCloud, názvu vášho počítača a názvov ostatných počítačov zaregistrovaných vo vašom účte služby iCloud.
+Protokolovanie môžete kedykoľvek vypnúť otvorením ponuky Nastavenia a postupným klepnutím na položky Všeobecné, Profily, iCloud Drive Diagnostics Profile (Profil diagnostiky služby iCloud Drive) a Vymazať profil. Protokolové súbory uložené v počítači si pred ich odoslaním spoločnosti Apple budete môcť prezrieť.
+
+Zapnutím tohto diagnostického nástroja a odoslaním kópie vytvorených súborov spoločnosti Apple vyjadrujete svoj súhlas s používaním obsahu takýchto súborov spoločnosťou Apple v súlade s jej zásadami ochrany osobných údajov (http://www.apple.com/legal/privacy/sk/).</string>
+		<key>sv</key>
+		<string>Profilen iCloud-enhetsfelsökningsloggning genererar filer som hjälper Apple att felsöka problem med din enhet och förbättra Apples produkter och tjänster. De genererade filerna kan innehålla viss personlig information, däribland fullständiga sökvägsnamn för lagrade dokument, ditt iCloud-användarnamn, datorns namn samt namn på övriga datorer som registrerats med ditt iCloud-konto.
+Du kan stänga av loggningen när som helst genom att öppna Inställningar och trycka på Allmänt, Profiler, iCloud-enhetsfelsökningsloggning och sedan på Ta bort profil. Du kan också granska loggfilerna på datorn innan du skickar dem till Apple.
+
+Genom att aktivera detta diagnostikverktyg och skicka en kopia av de genererade filerna till Apple accepterar du att Apple använder innehållet i dessa filer i enlighet med sin integritetspolicy (http://www.apple.com/legal/privacy/se).</string>
+		<key>th</key>
+		<string>โปรไฟล์ iCloud Drive Debug Logging สร้างไฟล์ซึ่งช่วย Apple ในการแก้ไขปัญหาที่เกิดขึ้นกับอุปกรณ์ของคุณ และช่วย Apple ในการปรับปรุงผลิตภัณฑ์และบริการให้ดียิ่งขึ้น ไฟล์ที่สร้างขึ้นอาจประกอบด้วยข้อมูลส่วนบุคคลบางส่วนของคุณ รวมถึงชื่อพาธแบบเต็มสำหรับเอกสารที่จัดเก็บไว้ของคุณ ชื่อผู้ใช้ iCloud ของคุณ ชื่อคอมพิวเตอร์ และชื่อคอมพิวเตอร์เครื่องอื่นที่ลงทะเบียนไว้ในบัญชี iCloud ของคุณ
+คุณจะสามารถปิดบันทึกข้อมูลได้ทุกเมื่อ โดยเปิด การตั้งค่า แตะที่ "ทั่วไป" จากนั้น "โปรไฟล์" จากนั้น "โปรไฟล์ iCloud Drive Diagnostics" และท้ายสุด "ลบโปรไฟล์" คุณยังสามารถตรวจทานไฟล์บันทึกข้อมูลบนคอมพิวเตอร์ของคุณก่อนส่งให้แก่ Apple
+
+ในการเปิดใช้งานเครื่องมือการวินิจฉัยนี้และการส่งสำเนาไฟล์ที่สร้างขึ้นให้แก่ Apple ถือว่าคุณยินยอมให้ Apple ใช้เนื้อหาของไฟล์ดังกล่าวตามนโยบายความเป็นส่วนตัว (http://www.apple.com/legal/privacy/th)</string>
+		<key>tr</key>
+		<string>iCloud Drive Hata Ayıklama Günlüğü Profili, Apple'ın aygıtınızla ilgili sorunları gidermesini sağlayan ve Apple'ın ürün ve hizmetlerini geliştirmesine yardımcı olan dosyalar oluşturur. Oluşturulan dosyalar depolanan belgelerinizin tam yol adları, iCloud kullanıcı adınız, bilgisayar adı ve iCloud hesabınızla kaydedilen bilgisayarların adları dahil bazı kişisel bilgilerinizi içerebilir.
+"Genel", "Profiller", "iCloud Drive Tanıları Profili" ve ardından "Profili Sil"e dokunarak günlük tutmayı istediğiniz zaman kapatabilirsiniz. Ayrıca bilgisayarınızdaki günlük dosyalarını Apple'a göndermeden önce gözden geçirebilirsiniz.
+
+Bu tanılama aracını etkinleştirerek ve oluşturulan dosyaların bir kopyasını Apple'a göndererek Apple'ın bu dosyaların içeriğini gizlilik politikasına (http://www.apple.com/legal/privacy/tr/) uygun şekilde kullanacağını kabul edersiniz.</string>
+		<key>zh-Hans</key>
+		<string>iCloud Drive 调试记录描述文件生成的文件可让 Apple 对您的设备出现的问题进行故障诊断，并可帮助 Apple 改善其产品和服务。生成的文件可能包含您的一些个人信息，其中包括您存储的文稿的完整路径名、iCloud 用户名称、电脑名称和使用您的 iCloud 帐户注册的其他电脑的名称。
+您随时都能关闭记录功能，方法是打开“设置”，然后依次轻按“通用”、“描述文件”、“iCloud Drive 诊断描述文件”和“删除描述文件”。在将日志文件发送给 Apple 之前，您还能在电脑上查看这些日志文件。
+
+启用此诊断工具并向 Apple 发送所生成文件的副本，即表示您同意 Apple 遵循其隐私政策 (http://www.apple.com/legal/privacy/szh/) 使用此类文件的内容。</string>
+		<key>zh-Hant</key>
+		<string>iCloud Drive Debug Logging Profile 產生的檔案可讓 Apple 進行裝置問題故障診斷，並協助 Apple 改進其產品和服務。所產生的檔案可能包含您的部分個人資訊，包括已儲存文件的完整路徑名稱、您的 iCloud 使用者名稱、電腦名稱，以及其他使用您 iCloud 帳號註冊的電腦名稱。
+您可以開啟「設定」，點一下「一般」，然後點一下「描述檔」，再點一下 iCloud Drive Diagnostics Profile，最後點一下「刪除描述檔」，即可隨時關閉記錄。在傳送記錄檔到 Apple 之前，您也可以在電腦上檢閱記錄檔。
+
+根據 Apple 的隱私權政策（http://www.apple.com/tw/legal/privacy），啟用此檢測工具並傳送所產生檔案的拷貝給 Apple，代表您同意 Apple 使用這類檔案的內容。</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>log.level</key>
+						<integer>7</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.bird</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>com.apple.fileprovider.log-sensitive-data</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>0DB660DF-DBCD-48FA-A30E-3BC349C240D0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>.GlobalPreferences</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>com.apple.fileprovider.log-sensitive-data</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Custom: (com.apple.fileprovider.log-sensitive-data)</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.7D70F997-9B95-4E87-9A4B-5FB2A6484007.alacarte.customsettings.FBAC131E-9D13-4882-BC8C-632D72FAD06A</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>FBAC131E-9D13-4882-BC8C-632D72FAD06A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>D8D87D92-A991-4726-99A2-2EDACDB10482</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>Prequelite</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Default</string>
+							<key>Persist</key>
+							<string>Default</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.CloudDocsUI</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.DocumentManager</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.FileProvider</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.clouddocs</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.cloudkit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mmcs</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.prequelite</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Default</string>
+							<key>Persist</key>
+							<string>Default</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.quicklook</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.revisiond</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables iCloud Drive debug logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>iCloud Drive Diagnostics Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.clouddocs.debug</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6B4C6AAC-4E71-4A5B-B29F-90D6A34C3369</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-08-18T07:00:00Z</date>
+</dict>
+</plist>

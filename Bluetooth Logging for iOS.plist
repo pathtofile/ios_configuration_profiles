@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Bluetooth Logging Profile allows Apple to troubleshoot issues with your device and help Apple to improve its related products and services. The generated log files include information related to your calls, such as the numbers you call or that call you while this profile is installed, the time these calls were made, the duration of the calls, and the names associated with these numbers if they are present in your address book; metadata for streamed audio tracks that may include information such as the title of the track and artist; names of nearby Bluetooth devices; and information related to the iOS device, such as when the device sleeps and wakes. The generated log files will not contain the afore-mentioned information about calls made while this profile was not installed, nor will they contain recordings of the calls themselves. You will be able to review the log files on any Mac (with macOS Sierra or later) prior to sending them to Apple.
+                
+The profile will expire after 4 days. To uninstall the profile at any time, open Settings, tap "General," then "Profiles," then "Bluetooth Logging Profile," and tap "Delete Profile."
+                
+This Bluetooth Logging Profile is only compatible with iOS 13 or newer.
+                
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>345600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.bluetooth.logging</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>EB7244A8-E5AF-4633-B207-AFA2D04EB5A8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.bluetooth</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<key>System</key>
+			<dict>
+				<key>Enable-Logging</key>
+				<true/>
+			</dict>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>BluetoothCustomerLogging</key>
+						<dict>
+							<key>PrivateDataLogging</key>
+							<true/>
+						</dict>
+						<key>FWStreamLogging</key>
+						<dict>
+							<key>FWCoreDumpEnable</key>
+							<true/>
+							<key>FWStreamLoggingEnable</key>
+							<true/>
+						</dict>
+						<key>HCI</key>
+						<dict>
+							<key>lmpRouting</key>
+							<true/>
+						</dict>
+						<key>HCITraces</key>
+						<dict>
+							<key>StackDebugEnabled</key>
+							<true/>
+						</dict>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.MobileBluetooth.debug</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>7E48B601-E2E9-497A-9883-3A34C647E0BA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables full logging for Bluetooth and WirelessProximity on iOS.</string>
+	<key>PayloadDisplayName</key>
+	<string>Bluetooth Logging for iOS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.bluetooth.logging</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F962F882-5EC4-4E4C-A014-29A7893CC3ED</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-07-25T07:00:00Z</date>
+</dict>
+</plist>

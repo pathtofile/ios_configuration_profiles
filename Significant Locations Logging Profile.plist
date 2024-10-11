@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Significant Locations Diagnostic Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain records of personal information from this device and other devices signed into your iCloud account, such as places which you have visited prior to installing this profile, as well as how often and when you visited them. In addition, the generated files may also including a log of locations from this device. The generated files may contain records with the time and location of certain system events prior to installing this profile, such as Bluetooth connections, scans of your WiFi environment, external power connections, usage of Apple Pay or a pass in Wallet, capturing a photo, attending a calendar event or using navigation in Maps. This profile will expire after 14 days.
+
+You will be able to turn off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles", tap "Significant Locations Diagnostics", and tap "Delete Profile".
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy) and for the purposes described above.
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>FrequentLocationsDeveloperEnabled</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>C2C9BD2C-8808-452E-9929-A12DC7178D08</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Significant Locations Diagnostics</string>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>2cb17420-1f7a-012e-6679-442c03067622</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.CoreRoutine</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Event-Log</key>
+						<dict>
+							<key>Enabled</key>
+							<string>Inherit</string>
+						</dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+							<key>Info</key>
+							<integer>4</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.locationd.Core</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.locationd.Motion</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.locationd.Position</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.locationd.Utility</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables logging for Significant Locations</string>
+	<key>PayloadDisplayName</key>
+	<string>Significant Locations Logging Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>LoggingProfile</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3ED5ED15-517D-4507-BD26-435B5D7D212A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-03-06T08:00:00Z</date>
+</dict>
+</plist>

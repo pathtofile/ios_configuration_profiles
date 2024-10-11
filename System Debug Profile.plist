@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The System Debug Profile triggers collection of files which may represent the past 30 days, and/or the 7 day period before system upgrades in the past year and those files allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files will contain some of your personal information, including information about how you use your device features, including times the device is charged, asleep, or in use, what applications you launch, certain display information, Health sensor usage, WatchKit/Workout statistics for the Apple Watch, the amount of time you play music or transmit data, among other usage data, and HomeKit device information, such as product IDs, push configuration information, connection statistics, and power data. The files might contain personal information found on your device or associated with your iCloud accounts and/or Apple ID, including but not limited to your name, your user name, your email address and email settings, file paths, file names, downloads, your computer's IP addresses, and network connection information. The files might also contain data about the system and the applications and accessories used, data displayed to you in the Battery section of Settings, the OS version and hardware model, Apple Pay card registration timestamp, watch faces and related complications present on a paired Watch, sensor activity, when CarPlay is being used and other related navigation information and the types of accessories to which the device is connected. The files may contain diagnostic messages created by 3rd-party applications. Apple does not use the diagnostic information collected by these 3rd-party applications nor does it share this information with any other 3rd party. The file will contain some personal information, such as--but not limited to--the names of WiFi access points you join and the e-mail address of each configured mail account. The profile will expire after 7 days.
+
+		To remove this profile from your device, you would navigate to the "Settings" menu on your device, go to "General", tap on "Profiles &amp; Device Management" to see what profiles are currently installed on your device, tap on "System Debug Profile," and tap "Delete Profile". To remove this profile from your Apple Watch, open the "Apple Watch" app on your iPhone, go to "General", tap on "Profiles" to see what profiles are currently installed on your device, tap on the "System Debug" Profile and tap "Delete Profile".
+
+		By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+		Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>FullMode</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.powerlogd</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>PCWriteLogs</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.persistentconnection</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>APSLogLevel</key>
+						<integer>6</integer>
+						<key>APSWriteLogs</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.apsd</string>
+				</dict>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>DADiagnosticsEnabled</key>
+						<true/>
+						<key>DALogLevel</key>
+						<integer>6</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.1</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>1B0B7A88-1131-4140-92E8-77AB5E725DDE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.watchOS</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>0852818F-24D3-4900-9A4E-48607230CC4B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>System</key>
+			<dict>
+				<key>Enable-Logging</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets defaults required to enable system debug logging</string>
+	<key>PayloadDisplayName</key>
+	<string>System Debug Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.powerlog</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>672CEA68-8389-4D5A-ADA3-110D7A388BAB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-03-12T07:00:00Z</date>
+</dict>
+</plist>

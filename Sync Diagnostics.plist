@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The SyncDiagnostics Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including email and calendar account details and the contents of your contacts, calendars, notes, reminders, bookmarks, and emails sent to or from the device. The generated files will not contain your passwords. The profile will expire after 4 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple.  To turn off logging, open Settings, tap General, tap "Profiles &amp; Device Management" tap "Sync Diagnostics" and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>345600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>DADiagnosticsEnabled</key>
+						<true/>
+						<key>DALogLevel</key>
+						<integer>6</integer>
+						<key>DAOutputLevel</key>
+						<integer>6</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.managed.dadiagnostics</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>ADC3A2C6-F858-4742-95E5-072D80D84E21</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.2</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>4667091C-1FB6-4942-9E84-4BA284DFA6F6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.dataaccess</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Debug</key>
+							<integer>0</integer>
+							<key>Default</key>
+							<integer>7</integer>
+							<key>Info</key>
+							<integer>7</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Sync Diagnostics.</string>
+	<key>PayloadDisplayName</key>
+	<string>Sync Diagnostics</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.dadiagnostics</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2A37E7B6-12BE-463B-8B1B-4AEBDE2A2309</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-07-07T07:00:00Z</date>
+</dict>
+</plist>

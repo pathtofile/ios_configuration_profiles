@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The CFNetwork Diagnostics profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files will contain all data transferred over the Internet to or from your device, including personal information such as the contents of the emails and iMessage texts you send and receive, the websites you visit, your Maps searches, and your requests to Siri. The generated files will contain account passwords that websites and your apps transfer over the Internet to access secure resources. The profile will expire after 7 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple.  To turn off logging, open Settings, tap General, tap "Profiles," tap "CFNetwork Diagnostics," and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2024, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>AppleCFNetworkDiagnosticLogging</key>
+						<integer>3</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>.GlobalPreferences</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Enables CFNetwork diagnostic logging</string>
+			<key>PayloadDisplayName</key>
+			<string>CFNetwork Extended Logging</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.defaults.managed.cfnetworklogging</string>
+			<key>PayloadOrganization</key>
+			<string>Apple, Inc</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>3A614BF2-2651-4A2A-9FA1-7556444401E9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables CFNetwork logging. Reboot required.</string>
+	<key>PayloadDisplayName</key>
+	<string>CFNetwork Diagnostics</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.cfnetworklogging</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E524E135-447D-439D-BBDD-F7E49FCE36E5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-06-30T07:00:00Z</date>
+</dict>
+</plist>

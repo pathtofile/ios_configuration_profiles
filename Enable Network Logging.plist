@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>This Network Diagnostics Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including IP addresses, host names, and services your device connects to, the amount of data sent or received, what network interface was used, and other detailed information about network activity. The profile will expire after 3 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles," tap "Network Diagnostics Profile," and tap "Delete Profile."
+ 
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>259200.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.0328D576-F924-4754-9069-E08707E8CF9B</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>0328D576-F924-4754-9069-E08707E8CF9B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Processes</key>
+			<dict/>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.network</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Sensitive</string>
+					</dict>
+				</dict>
+				<key>com.apple.networkrelay</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Enable-Private-Data</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Info</string>
+							<key>Persist</key>
+							<string>Info</string>
+						</dict>
+						<key>Privacy-Enable-Level</key>
+						<string>Sensitive</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables com.apple.network and com.apple.networkrelay logging of data marked private.</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Network Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.network.enable_private_logging</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C187AF84-0D4A-4078-A7DF-861D9215D0A3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-01-15T08:00:00Z</date>
+</dict>
+</plist>

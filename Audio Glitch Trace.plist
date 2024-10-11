@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>The Audio Glitch Trace Profile enables the generation of files that allow Apple to troubleshoot audio issues. The generated files include information about hardware and software functions that were invoked when an audible glitch occurs. This profile does not enable collection of recordings of audio content or other information about specific content being played.
+
+This profile will expire after 7 days. You will be able to turn off logging at any time while the Profile is installed. Captured tailspin files will be presented to you for review, and only be sent to Apple if you manually send the files.  To turn off audio glitch traces on your iOS device open Settings, tapping "General," then "Profiles &amp; Device Management," then "Audio Glitch Trace Logging Profile" and tap "Delete Profile."  To turn off logging on your MacOS device, open System Preferences, click "Profiles", select the "Audio Glitch Trace Logging Profile" and tap the "-" remove button.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+      
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>604800.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>enable_tailspin_verbose</key>
+						<integer>1</integer>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.coreaudio.careporting</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.audioanalytics.tailspin.config</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>20AB1CA2-69CE-4AB6-850E-E0417AB6C50B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.audioanalytics.tailspin.config.macOS</string>
+			<key>PayloadType</key>
+			<string>com.apple.coreaudio.careporting</string>
+			<key>PayloadUUID</key>
+			<string>CE372697-6ABE-41E8-A84D-67CA31F557C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>enable_tailspin_verbose</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables the generation of a system trace upon an audio glitch to troubleshoot disruptive audio issues. No audio content is stored.</string>
+	<key>PayloadDisplayName</key>
+	<string>Audio Glitch Trace</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.audioanalytics.tailspin</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadScope</key>
+	<string>system</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EC3B6068-BB23-419C-866D-DCBF42238919</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-10-08T07:00:00Z</date>
+</dict>
+</plist>

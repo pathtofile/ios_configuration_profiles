@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>en</key>
+		<string>The Notes Debug Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including information about your cloud syncing, migration and search indexing activity, unique identifiers for notes, folders and attachments, full path names of your stored documents, photo metadata, your iCloud username, and the names of computers registered with your iCloud account. 
+
+The generated files will not contain the content of your notes, folders or attachments. The profile will expire after 14 days. You will also be able to review the log files on your computer prior to sending them to Apple.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device or Apple TV, open Settings, tap "General", and tap "Profiles". To turn off logging on your Mac, choose  &gt; System Preferences, and click on the Profiles Preference Pane. To turn off logging on your Apple Watch, launch the Apple Watch app on your iPhone, tap "General", then tap "Profiles." Then select "Notes Debug Logging", tap "Remove Profile," and restart the device.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600.0</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>0C2726D1-7792-4B6E-9A90-25DF94A122A4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.cloudkit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mmcs</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.notes</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.prequelite</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables Notes debug logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>Notes Debug Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.notes.debug</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5849FBA8-72A0-4290-A2BD-F85667A64C4C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-10-26T07:00:00Z</date>
+</dict>
+</plist>

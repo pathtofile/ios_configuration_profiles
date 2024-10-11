@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string> The Journal Logging Profile enables additional logging related to Journal and Journaling Suggestions that allows Apple to troubleshoot issues with your devices, including your iPhone and Apple Watch, and helps Apple to improve its products and services.
+
+The logs may reveal the types of suggestions you received, which are based on your iPhone use, activities, media use, contacts, photos, and significant locations over the last 28 days. The logs may also include metadata related to suggestion ranking and personalization, sensed events, and suggestion refreshes. These logs may reveal your personal information and certain patterns in your behavior. However, the logs will not include the raw content of your suggestions, such as contact names, raw GPS coordinates (i.e. latitude and longitude), detailed workout or health information, media titles, photo images, or the content of Photo Memories. For example, the generated files may reveal that you received suggestions related to visits three times in the last week, but will not contain the specific location coordinates or name.
+
+The logs may also contain other information related to your use of the Journal app, including your engagement with the app and settings, toggle enablement, timestamps of events and suggestions, and additional data from your sysdiagnose logs, including timestamps, battery status, and device usage.
+
+You will be able to review the generated files prior to sending them to Apple. This profile will expire after 7 days of installation on your iPhone.
+
+You may remove this profile at any time to disable this additional logging by going to Settings on your phone, tap General, tap "VPN &amp; Device Management", under "Configuration Profiles"; tap "Journal Logging Profile"; and tap "Remove Profile".
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).
+
+        
+
+Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2023, Apple Inc. All rights reserved.</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<integer>604800</integer>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>02314A5B-129D-41BF-93E7-DD001A0D4445</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>com.apple.MomentsUIService</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.MomentsUIService.Swift</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.journal</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.momentsd</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Turns on journal suggestions debugging.</string>
+	<key>PayloadDisplayName</key>
+	<string>Journal Suggestions Debug</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.moments.journalDebug</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>46FE2B95-0BE8-410B-98F4-B8E9DC0DA3BD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2024-12-01T00:00:00Z</date>
+</dict>
+</plist>
